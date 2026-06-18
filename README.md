@@ -92,9 +92,9 @@ nattoguard-ai-revenue-system/
 │   ├── 05_decision_engine.ipynb
 │   └── 06_healthsea_supplement_insights.ipynb
 ├── outputs/
-│   ├── figures/
-│   ├── model_results/
 │   ├── chatbot_inputs/
+│   ├── Figures/
+│   ├── model_results/
 │   └── slide_assets/
 ├── requirements.txt
 ├── README.md
