@@ -1,0 +1,2442 @@
+session_id,purchase_probability,intent_segment,recommended_action,actual_revenue
+11640,0.13919322,Low Intent,Retarget with awareness ad or product education,0
+6936,0.1342343,Low Intent,Retarget with awareness ad or product education,0
+7194,0.13959949,Low Intent,Retarget with awareness ad or product education,0
+11263,0.1901546,Low Intent,Retarget with awareness ad or product education,0
+4728,0.00044658646,Low Intent,Retarget with awareness ad or product education,0
+9878,0.9151414,High Intent,Send checkout reminder or limited-time offer,0
+8101,0.029458381,Low Intent,Retarget with awareness ad or product education,0
+6642,0.21276647,Low Intent,Retarget with awareness ad or product education,0
+10215,0.35053194,Low Intent,Retarget with awareness ad or product education,0
+10224,0.036681022,Low Intent,Retarget with awareness ad or product education,0
+9114,0.041985754,Low Intent,Retarget with awareness ad or product education,0
+5699,0.04635653,Low Intent,Retarget with awareness ad or product education,0
+8770,0.2264073,Low Intent,Retarget with awareness ad or product education,0
+11550,0.38273188,Low Intent,Retarget with awareness ad or product education,0
+9159,0.7638054,High Intent,Send checkout reminder or limited-time offer,0
+2221,0.0005106433,Low Intent,Retarget with awareness ad or product education,0
+1939,0.026772462,Low Intent,Retarget with awareness ad or product education,0
+2259,0.0019697084,Low Intent,Retarget with awareness ad or product education,0
+2856,0.007102428,Low Intent,Retarget with awareness ad or product education,0
+7300,0.14571229,Low Intent,Retarget with awareness ad or product education,0
+1793,0.8129359,High Intent,Send checkout reminder or limited-time offer,0
+10162,0.96059346,High Intent,Send checkout reminder or limited-time offer,1
+1037,0.023270909,Low Intent,Retarget with awareness ad or product education,0
+3925,0.009708376,Low Intent,Retarget with awareness ad or product education,0
+10166,0.12828429,Low Intent,Retarget with awareness ad or product education,0
+10165,0.6584577,Medium Intent,Send educational content about Nattoguard benefits,0
+7769,0.22154975,Low Intent,Retarget with awareness ad or product education,1
+1876,0.053483363,Low Intent,Retarget with awareness ad or product education,0
+8227,0.020163924,Low Intent,Retarget with awareness ad or product education,0
+8033,0.19850387,Low Intent,Retarget with awareness ad or product education,0
+6137,0.9402789,High Intent,Send checkout reminder or limited-time offer,1
+5491,0.30617586,Low Intent,Retarget with awareness ad or product education,0
+5357,0.005568552,Low Intent,Retarget with awareness ad or product education,0
+8638,0.8523987,High Intent,Send checkout reminder or limited-time offer,1
+8511,0.66181207,Medium Intent,Send educational content about Nattoguard benefits,0
+895,0.11511097,Low Intent,Retarget with awareness ad or product education,0
+7162,0.14807294,Low Intent,Retarget with awareness ad or product education,0
+2762,0.003190191,Low Intent,Retarget with awareness ad or product education,0
+6689,0.008654735,Low Intent,Retarget with awareness ad or product education,0
+12193,0.077908516,Low Intent,Retarget with awareness ad or product education,0
+7099,0.22586341,Low Intent,Retarget with awareness ad or product education,0
+11652,0.70557374,Medium Intent,Send educational content about Nattoguard benefits,0
+3850,0.007543899,Low Intent,Retarget with awareness ad or product education,0
+8036,0.057769097,Low Intent,Retarget with awareness ad or product education,0
+7972,0.21817207,Low Intent,Retarget with awareness ad or product education,0
+11932,0.2226891,Low Intent,Retarget with awareness ad or product education,0
+7019,0.42540795,Medium Intent,Send educational content about Nattoguard benefits,0
+5804,0.9346026,High Intent,Send checkout reminder or limited-time offer,1
+9813,0.4778715,Medium Intent,Send educational content about Nattoguard benefits,0
+6105,0.27672118,Low Intent,Retarget with awareness ad or product education,0
+10845,0.010825498,Low Intent,Retarget with awareness ad or product education,0
+133,0.04053601,Low Intent,Retarget with awareness ad or product education,0
+4162,0.0026995724,Low Intent,Retarget with awareness ad or product education,0
+5985,0.13439408,Low Intent,Retarget with awareness ad or product education,0
+2689,0.0016968183,Low Intent,Retarget with awareness ad or product education,0
+3187,0.0067009963,Low Intent,Retarget with awareness ad or product education,0
+5710,0.109834865,Low Intent,Retarget with awareness ad or product education,0
+11921,0.10147726,Low Intent,Retarget with awareness ad or product education,0
+5278,0.0066886805,Low Intent,Retarget with awareness ad or product education,0
+7762,0.15415879,Low Intent,Retarget with awareness ad or product education,0
+5888,0.17006104,Low Intent,Retarget with awareness ad or product education,0
+8010,0.23528837,Low Intent,Retarget with awareness ad or product education,0
+6513,0.2774156,Low Intent,Retarget with awareness ad or product education,0
+2140,0.004490175,Low Intent,Retarget with awareness ad or product education,0
+9472,0.8433832,High Intent,Send checkout reminder or limited-time offer,1
+11682,0.28033066,Low Intent,Retarget with awareness ad or product education,0
+9686,0.04752472,Low Intent,Retarget with awareness ad or product education,0
+6389,0.5863331,Medium Intent,Send educational content about Nattoguard benefits,0
+8298,0.16900702,Low Intent,Retarget with awareness ad or product education,0
+2134,0.009000791,Low Intent,Retarget with awareness ad or product education,0
+10647,0.14053136,Low Intent,Retarget with awareness ad or product education,0
+2880,0.01602525,Low Intent,Retarget with awareness ad or product education,0
+4829,0.6377952,Medium Intent,Send educational content about Nattoguard benefits,1
+10469,0.24061602,Low Intent,Retarget with awareness ad or product education,0
+7095,0.77167135,High Intent,Send checkout reminder or limited-time offer,0
+6159,0.053754475,Low Intent,Retarget with awareness ad or product education,0
+2777,0.00071644224,Low Intent,Retarget with awareness ad or product education,0
+8709,0.9854855,High Intent,Send checkout reminder or limited-time offer,1
+2025,0.93595386,High Intent,Send checkout reminder or limited-time offer,1
+7731,0.714141,Medium Intent,Send educational content about Nattoguard benefits,1
+10602,0.22213377,Low Intent,Retarget with awareness ad or product education,0
+4743,0.0015634171,Low Intent,Retarget with awareness ad or product education,0
+1382,0.91171217,High Intent,Send checkout reminder or limited-time offer,0
+11512,0.9348809,High Intent,Send checkout reminder or limited-time offer,1
+10696,0.60207653,Medium Intent,Send educational content about Nattoguard benefits,0
+554,0.007010912,Low Intent,Retarget with awareness ad or product education,0
+10024,0.83686537,High Intent,Send checkout reminder or limited-time offer,1
+5014,0.0057165595,Low Intent,Retarget with awareness ad or product education,0
+3952,0.009179753,Low Intent,Retarget with awareness ad or product education,0
+247,0.018854108,Low Intent,Retarget with awareness ad or product education,0
+11430,0.94550836,High Intent,Send checkout reminder or limited-time offer,0
+576,0.001208197,Low Intent,Retarget with awareness ad or product education,0
+410,0.025090726,Low Intent,Retarget with awareness ad or product education,0
+8783,0.4728453,Medium Intent,Send educational content about Nattoguard benefits,0
+4730,0.0050052023,Low Intent,Retarget with awareness ad or product education,0
+8059,0.03048532,Low Intent,Retarget with awareness ad or product education,0
+8337,0.40664792,Medium Intent,Send educational content about Nattoguard benefits,0
+5,0.032994404,Low Intent,Retarget with awareness ad or product education,0
+9861,0.29689875,Low Intent,Retarget with awareness ad or product education,0
+10195,0.90678614,High Intent,Send checkout reminder or limited-time offer,1
+5343,0.06252693,Low Intent,Retarget with awareness ad or product education,0
+12015,0.386028,Low Intent,Retarget with awareness ad or product education,0
+4959,0.0069382796,Low Intent,Retarget with awareness ad or product education,0
+741,0.03352266,Low Intent,Retarget with awareness ad or product education,0
+9510,0.52886915,Medium Intent,Send educational content about Nattoguard benefits,1
+10185,0.09817199,Low Intent,Retarget with awareness ad or product education,0
+8629,0.7883885,High Intent,Send checkout reminder or limited-time offer,1
+1845,0.0010051415,Low Intent,Retarget with awareness ad or product education,0
+4722,0.786326,High Intent,Send checkout reminder or limited-time offer,1
+2109,0.0060880478,Low Intent,Retarget with awareness ad or product education,0
+384,0.013020392,Low Intent,Retarget with awareness ad or product education,0
+10092,0.98861897,High Intent,Send checkout reminder or limited-time offer,1
+11190,0.7692499,High Intent,Send checkout reminder or limited-time offer,0
+2291,0.008930182,Low Intent,Retarget with awareness ad or product education,0
+4488,0.0068124016,Low Intent,Retarget with awareness ad or product education,0
+10255,0.020993544,Low Intent,Retarget with awareness ad or product education,0
+3587,0.006980504,Low Intent,Retarget with awareness ad or product education,0
+8811,0.8744781,High Intent,Send checkout reminder or limited-time offer,1
+5852,0.49296698,Medium Intent,Send educational content about Nattoguard benefits,0
+1735,0.035896156,Low Intent,Retarget with awareness ad or product education,0
+3906,0.63649094,Medium Intent,Send educational content about Nattoguard benefits,1
+7790,0.29786712,Low Intent,Retarget with awareness ad or product education,0
+9958,0.11229025,Low Intent,Retarget with awareness ad or product education,0
+835,0.7815932,High Intent,Send checkout reminder or limited-time offer,0
+9153,0.89539677,High Intent,Send checkout reminder or limited-time offer,1
+2143,0.8356272,High Intent,Send checkout reminder or limited-time offer,0
+6546,0.8021385,High Intent,Send checkout reminder or limited-time offer,0
+2509,0.010484128,Low Intent,Retarget with awareness ad or product education,0
+8505,0.7123664,Medium Intent,Send educational content about Nattoguard benefits,0
+5744,0.9096842,High Intent,Send checkout reminder or limited-time offer,0
+5070,0.0072930465,Low Intent,Retarget with awareness ad or product education,0
+5471,0.97387695,High Intent,Send checkout reminder or limited-time offer,1
+11264,0.3999596,Low Intent,Retarget with awareness ad or product education,0
+998,0.022111712,Low Intent,Retarget with awareness ad or product education,0
+7480,0.012152906,Low Intent,Retarget with awareness ad or product education,0
+6676,0.42648828,Medium Intent,Send educational content about Nattoguard benefits,0
+9752,0.22148366,Low Intent,Retarget with awareness ad or product education,0
+533,0.0078040613,Low Intent,Retarget with awareness ad or product education,0
+11671,0.4972251,Medium Intent,Send educational content about Nattoguard benefits,0
+8862,0.19480039,Low Intent,Retarget with awareness ad or product education,0
+678,0.027928906,Low Intent,Retarget with awareness ad or product education,0
+7382,0.3428682,Low Intent,Retarget with awareness ad or product education,0
+11871,0.005948773,Low Intent,Retarget with awareness ad or product education,0
+5540,0.89092976,High Intent,Send checkout reminder or limited-time offer,1
+8683,0.6676976,Medium Intent,Send educational content about Nattoguard benefits,0
+166,0.02769282,Low Intent,Retarget with awareness ad or product education,0
+9543,0.042469196,Low Intent,Retarget with awareness ad or product education,0
+11258,0.027146291,Low Intent,Retarget with awareness ad or product education,0
+10952,0.20675227,Low Intent,Retarget with awareness ad or product education,0
+9664,0.89631784,High Intent,Send checkout reminder or limited-time offer,1
+1573,0.007061832,Low Intent,Retarget with awareness ad or product education,0
+9727,0.046701144,Low Intent,Retarget with awareness ad or product education,0
+10087,0.91589266,High Intent,Send checkout reminder or limited-time offer,0
+11758,0.53769505,Medium Intent,Send educational content about Nattoguard benefits,1
+3377,0.004177145,Low Intent,Retarget with awareness ad or product education,0
+8874,0.14258078,Low Intent,Retarget with awareness ad or product education,0
+10036,0.3801511,Low Intent,Retarget with awareness ad or product education,0
+11348,0.36275235,Low Intent,Retarget with awareness ad or product education,0
+713,0.0119861225,Low Intent,Retarget with awareness ad or product education,0
+4934,0.009056201,Low Intent,Retarget with awareness ad or product education,0
+3283,0.006071865,Low Intent,Retarget with awareness ad or product education,0
+7207,0.22679073,Low Intent,Retarget with awareness ad or product education,0
+4771,0.0042493865,Low Intent,Retarget with awareness ad or product education,0
+11303,0.015379552,Low Intent,Retarget with awareness ad or product education,0
+4666,0.0017080121,Low Intent,Retarget with awareness ad or product education,0
+9871,0.7761063,High Intent,Send checkout reminder or limited-time offer,0
+10107,0.33283588,Low Intent,Retarget with awareness ad or product education,0
+5365,0.016878873,Low Intent,Retarget with awareness ad or product education,0
+683,0.67710596,Medium Intent,Send educational content about Nattoguard benefits,1
+9724,0.52489406,Medium Intent,Send educational content about Nattoguard benefits,0
+4590,0.00091312913,Low Intent,Retarget with awareness ad or product education,0
+3383,0.011354523,Low Intent,Retarget with awareness ad or product education,0
+5745,0.05251342,Low Intent,Retarget with awareness ad or product education,0
+8246,0.1253289,Low Intent,Retarget with awareness ad or product education,0
+6253,0.1974175,Low Intent,Retarget with awareness ad or product education,1
+11322,0.6431169,Medium Intent,Send educational content about Nattoguard benefits,1
+9611,0.6242506,Medium Intent,Send educational content about Nattoguard benefits,0
+5765,0.80407006,High Intent,Send checkout reminder or limited-time offer,1
+5279,0.0021713618,Low Intent,Retarget with awareness ad or product education,0
+6534,0.54116404,Medium Intent,Send educational content about Nattoguard benefits,1
+4,0.020308694,Low Intent,Retarget with awareness ad or product education,0
+3135,0.011135274,Low Intent,Retarget with awareness ad or product education,0
+6247,0.30106714,Low Intent,Retarget with awareness ad or product education,1
+3284,0.9815683,High Intent,Send checkout reminder or limited-time offer,1
+7934,0.70116,Medium Intent,Send educational content about Nattoguard benefits,0
+11787,0.56618494,Medium Intent,Send educational content about Nattoguard benefits,0
+2760,0.65467507,Medium Intent,Send educational content about Nattoguard benefits,1
+5408,0.13291384,Low Intent,Retarget with awareness ad or product education,0
+11173,0.098969646,Low Intent,Retarget with awareness ad or product education,0
+950,0.01860789,Low Intent,Retarget with awareness ad or product education,0
+4984,0.016510444,Low Intent,Retarget with awareness ad or product education,0
+7758,0.25541034,Low Intent,Retarget with awareness ad or product education,0
+1424,0.013943674,Low Intent,Retarget with awareness ad or product education,0
+7596,0.098566025,Low Intent,Retarget with awareness ad or product education,0
+10015,0.8612762,High Intent,Send checkout reminder or limited-time offer,0
+1022,0.016797591,Low Intent,Retarget with awareness ad or product education,0
+12060,0.92996067,High Intent,Send checkout reminder or limited-time offer,0
+9394,0.5888959,Medium Intent,Send educational content about Nattoguard benefits,0
+10857,0.0042405343,Low Intent,Retarget with awareness ad or product education,0
+7459,0.30028492,Low Intent,Retarget with awareness ad or product education,0
+4619,0.0011325064,Low Intent,Retarget with awareness ad or product education,0
+5769,0.2877923,Low Intent,Retarget with awareness ad or product education,0
+235,0.0082695335,Low Intent,Retarget with awareness ad or product education,0
+245,0.70628107,Medium Intent,Send educational content about Nattoguard benefits,1
+3805,0.009669636,Low Intent,Retarget with awareness ad or product education,0
+11461,0.75378793,High Intent,Send checkout reminder or limited-time offer,0
+1986,0.0214938,Low Intent,Retarget with awareness ad or product education,0
+7893,0.11688386,Low Intent,Retarget with awareness ad or product education,0
+419,0.042106926,Low Intent,Retarget with awareness ad or product education,0
+8267,0.7816275,High Intent,Send checkout reminder or limited-time offer,0
+8269,0.93555355,High Intent,Send checkout reminder or limited-time offer,1
+3379,0.9764164,High Intent,Send checkout reminder or limited-time offer,1
+8312,0.09364959,Low Intent,Retarget with awareness ad or product education,0
+1406,0.011452931,Low Intent,Retarget with awareness ad or product education,0
+635,0.0085329795,Low Intent,Retarget with awareness ad or product education,0
+4179,0.003794387,Low Intent,Retarget with awareness ad or product education,0
+902,0.01107037,Low Intent,Retarget with awareness ad or product education,0
+7701,0.12596954,Low Intent,Retarget with awareness ad or product education,0
+5437,0.108289525,Low Intent,Retarget with awareness ad or product education,0
+9651,0.53026444,Medium Intent,Send educational content about Nattoguard benefits,0
+6852,0.28451744,Low Intent,Retarget with awareness ad or product education,0
+6802,0.96758044,High Intent,Send checkout reminder or limited-time offer,1
+5235,0.45670348,Medium Intent,Send educational content about Nattoguard benefits,1
+1014,0.0017489034,Low Intent,Retarget with awareness ad or product education,0
+3540,0.0006897417,Low Intent,Retarget with awareness ad or product education,0
+108,0.031098071,Low Intent,Retarget with awareness ad or product education,0
+5754,0.062923655,Low Intent,Retarget with awareness ad or product education,0
+11415,0.08867229,Low Intent,Retarget with awareness ad or product education,0
+7350,0.25485596,Low Intent,Retarget with awareness ad or product education,0
+8722,0.910184,High Intent,Send checkout reminder or limited-time offer,1
+10560,0.67474604,Medium Intent,Send educational content about Nattoguard benefits,1
+10638,0.9792324,High Intent,Send checkout reminder or limited-time offer,1
+1905,0.045590166,Low Intent,Retarget with awareness ad or product education,0
+11288,0.24968462,Low Intent,Retarget with awareness ad or product education,0
+3811,0.004819303,Low Intent,Retarget with awareness ad or product education,0
+10664,0.3644691,Low Intent,Retarget with awareness ad or product education,0
+1420,0.008373925,Low Intent,Retarget with awareness ad or product education,0
+3444,0.009866812,Low Intent,Retarget with awareness ad or product education,0
+6131,0.98794377,High Intent,Send checkout reminder or limited-time offer,1
+1341,0.006912435,Low Intent,Retarget with awareness ad or product education,0
+1512,0.0250961,Low Intent,Retarget with awareness ad or product education,0
+3240,0.010971316,Low Intent,Retarget with awareness ad or product education,0
+5369,0.0014557282,Low Intent,Retarget with awareness ad or product education,0
+687,0.01569827,Low Intent,Retarget with awareness ad or product education,0
+3669,0.014030746,Low Intent,Retarget with awareness ad or product education,0
+2587,0.008058331,Low Intent,Retarget with awareness ad or product education,0
+11349,0.7136731,Medium Intent,Send educational content about Nattoguard benefits,0
+4846,0.59588397,Medium Intent,Send educational content about Nattoguard benefits,1
+11404,0.4695851,Medium Intent,Send educational content about Nattoguard benefits,1
+614,0.018055085,Low Intent,Retarget with awareness ad or product education,0
+8812,0.9257988,High Intent,Send checkout reminder or limited-time offer,0
+2960,0.00263442,Low Intent,Retarget with awareness ad or product education,0
+6819,0.04398377,Low Intent,Retarget with awareness ad or product education,0
+4687,0.6933764,Medium Intent,Send educational content about Nattoguard benefits,0
+11244,0.51992327,Medium Intent,Send educational content about Nattoguard benefits,0
+6884,0.22816563,Low Intent,Retarget with awareness ad or product education,0
+535,0.019460615,Low Intent,Retarget with awareness ad or product education,0
+7411,0.2183713,Low Intent,Retarget with awareness ad or product education,0
+11491,0.17551741,Low Intent,Retarget with awareness ad or product education,0
+4677,0.01183486,Low Intent,Retarget with awareness ad or product education,0
+2688,0.8792385,High Intent,Send checkout reminder or limited-time offer,1
+12187,0.9302208,High Intent,Send checkout reminder or limited-time offer,1
+3902,0.0055354005,Low Intent,Retarget with awareness ad or product education,0
+6694,0.8197257,High Intent,Send checkout reminder or limited-time offer,0
+1495,0.003919583,Low Intent,Retarget with awareness ad or product education,0
+3382,0.00045292763,Low Intent,Retarget with awareness ad or product education,0
+9147,0.1793652,Low Intent,Retarget with awareness ad or product education,0
+4145,0.0047993464,Low Intent,Retarget with awareness ad or product education,0
+9626,0.31396702,Low Intent,Retarget with awareness ad or product education,0
+6995,0.36618465,Low Intent,Retarget with awareness ad or product education,0
+1800,0.0032706172,Low Intent,Retarget with awareness ad or product education,0
+8822,0.51162827,Medium Intent,Send educational content about Nattoguard benefits,0
+2252,0.0057641775,Low Intent,Retarget with awareness ad or product education,0
+4408,0.0071261376,Low Intent,Retarget with awareness ad or product education,0
+10047,0.11221244,Low Intent,Retarget with awareness ad or product education,0
+8357,0.5751367,Medium Intent,Send educational content about Nattoguard benefits,0
+8432,0.20017056,Low Intent,Retarget with awareness ad or product education,0
+8086,0.2953171,Low Intent,Retarget with awareness ad or product education,0
+5499,0.84948224,High Intent,Send checkout reminder or limited-time offer,1
+325,0.013669874,Low Intent,Retarget with awareness ad or product education,0
+1393,0.036623374,Low Intent,Retarget with awareness ad or product education,0
+8055,0.33165333,Low Intent,Retarget with awareness ad or product education,0
+3288,0.0021144645,Low Intent,Retarget with awareness ad or product education,0
+6571,0.66717446,Medium Intent,Send educational content about Nattoguard benefits,0
+361,0.014968542,Low Intent,Retarget with awareness ad or product education,0
+6485,0.06586984,Low Intent,Retarget with awareness ad or product education,0
+9983,0.33088523,Low Intent,Retarget with awareness ad or product education,1
+9956,0.2382477,Low Intent,Retarget with awareness ad or product education,0
+12189,0.020211285,Low Intent,Retarget with awareness ad or product education,0
+952,0.04211443,Low Intent,Retarget with awareness ad or product education,0
+7571,0.019018918,Low Intent,Retarget with awareness ad or product education,0
+2253,0.9908009,High Intent,Send checkout reminder or limited-time offer,1
+627,0.9858326,High Intent,Send checkout reminder or limited-time offer,1
+10160,0.117680766,Low Intent,Retarget with awareness ad or product education,0
+9137,0.11121924,Low Intent,Retarget with awareness ad or product education,0
+303,0.0020456957,Low Intent,Retarget with awareness ad or product education,0
+4049,0.00591427,Low Intent,Retarget with awareness ad or product education,0
+1875,0.95465654,High Intent,Send checkout reminder or limited-time offer,1
+7003,0.72660536,Medium Intent,Send educational content about Nattoguard benefits,1
+10668,0.16424827,Low Intent,Retarget with awareness ad or product education,0
+11813,0.21017675,Low Intent,Retarget with awareness ad or product education,1
+4462,0.7266042,Medium Intent,Send educational content about Nattoguard benefits,0
+7370,0.053725,Low Intent,Retarget with awareness ad or product education,0
+7386,0.4096238,Medium Intent,Send educational content about Nattoguard benefits,0
+8224,0.18189788,Low Intent,Retarget with awareness ad or product education,0
+1100,0.028044768,Low Intent,Retarget with awareness ad or product education,0
+3045,0.0045563346,Low Intent,Retarget with awareness ad or product education,0
+619,0.012575774,Low Intent,Retarget with awareness ad or product education,0
+8934,0.4082632,Medium Intent,Send educational content about Nattoguard benefits,1
+1853,0.012494476,Low Intent,Retarget with awareness ad or product education,0
+2270,0.0009538153,Low Intent,Retarget with awareness ad or product education,0
+8799,0.21727511,Low Intent,Retarget with awareness ad or product education,0
+2808,0.0008225102,Low Intent,Retarget with awareness ad or product education,0
+5543,0.14993598,Low Intent,Retarget with awareness ad or product education,0
+9,0.07788577,Low Intent,Retarget with awareness ad or product education,0
+3846,0.008408185,Low Intent,Retarget with awareness ad or product education,0
+10822,0.24507152,Low Intent,Retarget with awareness ad or product education,0
+11428,0.023681713,Low Intent,Retarget with awareness ad or product education,0
+5143,0.007982288,Low Intent,Retarget with awareness ad or product education,0
+12056,0.7362196,Medium Intent,Send educational content about Nattoguard benefits,0
+7982,0.33818546,Low Intent,Retarget with awareness ad or product education,0
+4803,0.0064108735,Low Intent,Retarget with awareness ad or product education,0
+1861,0.94099975,High Intent,Send checkout reminder or limited-time offer,1
+10475,0.39372537,Low Intent,Retarget with awareness ad or product education,0
+11893,0.05317973,Low Intent,Retarget with awareness ad or product education,0
+8551,0.05925703,Low Intent,Retarget with awareness ad or product education,0
+7547,0.054035764,Low Intent,Retarget with awareness ad or product education,0
+4191,0.0007972616,Low Intent,Retarget with awareness ad or product education,0
+3033,0.0023990818,Low Intent,Retarget with awareness ad or product education,0
+10209,0.5620683,Medium Intent,Send educational content about Nattoguard benefits,0
+4940,0.005709406,Low Intent,Retarget with awareness ad or product education,0
+11990,0.20681792,Low Intent,Retarget with awareness ad or product education,0
+5706,0.08649192,Low Intent,Retarget with awareness ad or product education,0
+2036,0.9673282,High Intent,Send checkout reminder or limited-time offer,1
+3877,0.010358977,Low Intent,Retarget with awareness ad or product education,0
+6340,0.19514541,Low Intent,Retarget with awareness ad or product education,0
+3364,0.9036343,High Intent,Send checkout reminder or limited-time offer,1
+5353,0.8877113,High Intent,Send checkout reminder or limited-time offer,1
+10875,0.024320787,Low Intent,Retarget with awareness ad or product education,0
+7200,0.6282439,Medium Intent,Send educational content about Nattoguard benefits,0
+9413,0.0062014805,Low Intent,Retarget with awareness ad or product education,0
+7093,0.8964711,High Intent,Send checkout reminder or limited-time offer,1
+5585,0.22484101,Low Intent,Retarget with awareness ad or product education,0
+9252,0.0067235427,Low Intent,Retarget with awareness ad or product education,0
+11852,0.16785732,Low Intent,Retarget with awareness ad or product education,0
+9097,0.87727,High Intent,Send checkout reminder or limited-time offer,1
+9410,0.36070737,Low Intent,Retarget with awareness ad or product education,0
+4582,0.0033214835,Low Intent,Retarget with awareness ad or product education,0
+4793,0.9780701,High Intent,Send checkout reminder or limited-time offer,1
+3183,0.007610679,Low Intent,Retarget with awareness ad or product education,0
+4397,0.6791696,Medium Intent,Send educational content about Nattoguard benefits,0
+11730,0.6554213,Medium Intent,Send educational content about Nattoguard benefits,0
+11002,0.0054662386,Low Intent,Retarget with awareness ad or product education,0
+10570,0.28777474,Low Intent,Retarget with awareness ad or product education,0
+10719,0.39719218,Low Intent,Retarget with awareness ad or product education,0
+11905,0.5214621,Medium Intent,Send educational content about Nattoguard benefits,0
+1807,0.0023318767,Low Intent,Retarget with awareness ad or product education,0
+12150,0.312313,Low Intent,Retarget with awareness ad or product education,0
+8435,0.59265494,Medium Intent,Send educational content about Nattoguard benefits,0
+9961,0.25931308,Low Intent,Retarget with awareness ad or product education,0
+6843,0.74470425,Medium Intent,Send educational content about Nattoguard benefits,0
+5101,0.009999419,Low Intent,Retarget with awareness ad or product education,0
+7017,0.8838746,High Intent,Send checkout reminder or limited-time offer,0
+11771,0.13200761,Low Intent,Retarget with awareness ad or product education,0
+8996,0.031911712,Low Intent,Retarget with awareness ad or product education,0
+1176,0.07937103,Low Intent,Retarget with awareness ad or product education,0
+11464,0.12949756,Low Intent,Retarget with awareness ad or product education,0
+2497,0.0033409693,Low Intent,Retarget with awareness ad or product education,0
+10144,0.57797766,Medium Intent,Send educational content about Nattoguard benefits,0
+11779,0.13675763,Low Intent,Retarget with awareness ad or product education,0
+11012,0.49629346,Medium Intent,Send educational content about Nattoguard benefits,1
+4136,0.006908155,Low Intent,Retarget with awareness ad or product education,0
+3673,0.007817505,Low Intent,Retarget with awareness ad or product education,0
+11654,0.45909292,Medium Intent,Send educational content about Nattoguard benefits,1
+10814,0.6303694,Medium Intent,Send educational content about Nattoguard benefits,0
+1391,0.9751813,High Intent,Send checkout reminder or limited-time offer,0
+9194,0.89073217,High Intent,Send checkout reminder or limited-time offer,0
+10409,0.3408034,Low Intent,Retarget with awareness ad or product education,0
+9201,0.05652668,Low Intent,Retarget with awareness ad or product education,0
+1940,0.013213337,Low Intent,Retarget with awareness ad or product education,0
+10802,0.86149496,High Intent,Send checkout reminder or limited-time offer,1
+2819,0.0016605699,Low Intent,Retarget with awareness ad or product education,0
+9747,0.9693792,High Intent,Send checkout reminder or limited-time offer,1
+3216,0.0061914967,Low Intent,Retarget with awareness ad or product education,0
+10796,0.1444948,Low Intent,Retarget with awareness ad or product education,0
+10386,0.40373892,Medium Intent,Send educational content about Nattoguard benefits,0
+5984,0.58545756,Medium Intent,Send educational content about Nattoguard benefits,0
+2637,0.0022907755,Low Intent,Retarget with awareness ad or product education,0
+1672,0.0016070473,Low Intent,Retarget with awareness ad or product education,0
+894,0.022137059,Low Intent,Retarget with awareness ad or product education,0
+11066,0.08987293,Low Intent,Retarget with awareness ad or product education,0
+4092,0.8724977,High Intent,Send checkout reminder or limited-time offer,0
+10565,0.8528218,High Intent,Send checkout reminder or limited-time offer,1
+7232,0.35308948,Low Intent,Retarget with awareness ad or product education,1
+2716,0.98627824,High Intent,Send checkout reminder or limited-time offer,1
+8633,0.029663846,Low Intent,Retarget with awareness ad or product education,0
+5942,0.99122053,High Intent,Send checkout reminder or limited-time offer,1
+5847,0.026478948,Low Intent,Retarget with awareness ad or product education,0
+3006,0.019866526,Low Intent,Retarget with awareness ad or product education,0
+5851,0.19925724,Low Intent,Retarget with awareness ad or product education,0
+2354,0.014811234,Low Intent,Retarget with awareness ad or product education,0
+3640,0.022566482,Low Intent,Retarget with awareness ad or product education,0
+6573,0.82659656,High Intent,Send checkout reminder or limited-time offer,1
+6373,0.37950236,Low Intent,Retarget with awareness ad or product education,0
+11969,0.10532443,Low Intent,Retarget with awareness ad or product education,0
+2974,0.0036173982,Low Intent,Retarget with awareness ad or product education,0
+8405,0.0071563353,Low Intent,Retarget with awareness ad or product education,0
+1367,0.0011488523,Low Intent,Retarget with awareness ad or product education,0
+8640,0.9691027,High Intent,Send checkout reminder or limited-time offer,1
+8410,0.10778164,Low Intent,Retarget with awareness ad or product education,0
+1623,0.004703171,Low Intent,Retarget with awareness ad or product education,0
+7723,0.79066944,High Intent,Send checkout reminder or limited-time offer,1
+3305,0.0003411301,Low Intent,Retarget with awareness ad or product education,0
+4966,0.0053174663,Low Intent,Retarget with awareness ad or product education,0
+2149,0.012680139,Low Intent,Retarget with awareness ad or product education,0
+6590,0.31191298,Low Intent,Retarget with awareness ad or product education,0
+10330,0.35510594,Low Intent,Retarget with awareness ad or product education,0
+5479,0.12769528,Low Intent,Retarget with awareness ad or product education,0
+3124,0.017749645,Low Intent,Retarget with awareness ad or product education,0
+7044,0.21906404,Low Intent,Retarget with awareness ad or product education,0
+6614,0.9339576,High Intent,Send checkout reminder or limited-time offer,1
+11784,0.7042765,Medium Intent,Send educational content about Nattoguard benefits,0
+7004,0.19994752,Low Intent,Retarget with awareness ad or product education,0
+6130,0.17430483,Low Intent,Retarget with awareness ad or product education,0
+2753,0.0029114333,Low Intent,Retarget with awareness ad or product education,0
+7224,0.7378742,Medium Intent,Send educational content about Nattoguard benefits,1
+10581,0.95360535,High Intent,Send checkout reminder or limited-time offer,1
+3514,0.011934006,Low Intent,Retarget with awareness ad or product education,0
+6515,0.03688171,Low Intent,Retarget with awareness ad or product education,0
+3765,0.94903827,High Intent,Send checkout reminder or limited-time offer,1
+3091,0.003816375,Low Intent,Retarget with awareness ad or product education,0
+11939,0.0291799,Low Intent,Retarget with awareness ad or product education,0
+719,0.010669465,Low Intent,Retarget with awareness ad or product education,0
+6458,0.08908428,Low Intent,Retarget with awareness ad or product education,0
+3512,0.0027286187,Low Intent,Retarget with awareness ad or product education,0
+4502,0.94275665,High Intent,Send checkout reminder or limited-time offer,0
+1032,0.014244839,Low Intent,Retarget with awareness ad or product education,0
+8426,0.9227556,High Intent,Send checkout reminder or limited-time offer,1
+6024,0.27542406,Low Intent,Retarget with awareness ad or product education,0
+9634,0.05872736,Low Intent,Retarget with awareness ad or product education,0
+9779,0.1782396,Low Intent,Retarget with awareness ad or product education,0
+399,0.030858703,Low Intent,Retarget with awareness ad or product education,0
+5957,0.18005222,Low Intent,Retarget with awareness ad or product education,0
+8901,0.98480934,High Intent,Send checkout reminder or limited-time offer,1
+2101,0.00061749335,Low Intent,Retarget with awareness ad or product education,0
+6405,0.17893916,Low Intent,Retarget with awareness ad or product education,0
+3115,0.016891893,Low Intent,Retarget with awareness ad or product education,0
+150,0.02913771,Low Intent,Retarget with awareness ad or product education,0
+236,0.008587645,Low Intent,Retarget with awareness ad or product education,0
+4647,0.0043107197,Low Intent,Retarget with awareness ad or product education,0
+4998,0.7293579,Medium Intent,Send educational content about Nattoguard benefits,0
+3308,0.009581112,Low Intent,Retarget with awareness ad or product education,0
+6390,0.012581898,Low Intent,Retarget with awareness ad or product education,0
+11879,0.40267107,Medium Intent,Send educational content about Nattoguard benefits,0
+3911,0.012423165,Low Intent,Retarget with awareness ad or product education,0
+3476,0.009378204,Low Intent,Retarget with awareness ad or product education,0
+2288,0.0012249005,Low Intent,Retarget with awareness ad or product education,0
+5200,0.00081705884,Low Intent,Retarget with awareness ad or product education,0
+11709,0.60923105,Medium Intent,Send educational content about Nattoguard benefits,0
+11016,0.085536785,Low Intent,Retarget with awareness ad or product education,0
+7463,0.66269827,Medium Intent,Send educational content about Nattoguard benefits,1
+1000,0.06956507,Low Intent,Retarget with awareness ad or product education,0
+9366,0.3026727,Low Intent,Retarget with awareness ad or product education,0
+5964,0.011338728,Low Intent,Retarget with awareness ad or product education,0
+2184,0.44000438,Medium Intent,Send educational content about Nattoguard benefits,0
+861,0.0014232743,Low Intent,Retarget with awareness ad or product education,0
+4689,0.005783555,Low Intent,Retarget with awareness ad or product education,0
+11439,0.3451054,Low Intent,Retarget with awareness ad or product education,0
+3313,0.010338686,Low Intent,Retarget with awareness ad or product education,0
+9311,0.20670961,Low Intent,Retarget with awareness ad or product education,0
+11899,0.08311873,Low Intent,Retarget with awareness ad or product education,0
+6919,0.034353763,Low Intent,Retarget with awareness ad or product education,0
+3808,0.005382334,Low Intent,Retarget with awareness ad or product education,0
+3214,0.3334117,Low Intent,Retarget with awareness ad or product education,0
+2779,0.0034566578,Low Intent,Retarget with awareness ad or product education,0
+1527,0.95940185,High Intent,Send checkout reminder or limited-time offer,1
+568,0.0007107039,Low Intent,Retarget with awareness ad or product education,0
+9913,0.37684253,Low Intent,Retarget with awareness ad or product education,0
+1701,0.008392424,Low Intent,Retarget with awareness ad or product education,0
+11070,0.22624321,Low Intent,Retarget with awareness ad or product education,1
+4091,0.0003969453,Low Intent,Retarget with awareness ad or product education,0
+12171,0.08983241,Low Intent,Retarget with awareness ad or product education,0
+8336,0.30531758,Low Intent,Retarget with awareness ad or product education,0
+7246,0.03392216,Low Intent,Retarget with awareness ad or product education,0
+8796,0.80149823,High Intent,Send checkout reminder or limited-time offer,0
+8625,0.33621424,Low Intent,Retarget with awareness ad or product education,0
+3832,0.0040338724,Low Intent,Retarget with awareness ad or product education,0
+7729,0.98307806,High Intent,Send checkout reminder or limited-time offer,1
+4904,0.0008828624,Low Intent,Retarget with awareness ad or product education,0
+8738,0.19895416,Low Intent,Retarget with awareness ad or product education,1
+9085,0.051775414,Low Intent,Retarget with awareness ad or product education,0
+937,0.98002774,High Intent,Send checkout reminder or limited-time offer,1
+7757,0.021139562,Low Intent,Retarget with awareness ad or product education,0
+7137,0.19127305,Low Intent,Retarget with awareness ad or product education,0
+8307,0.22909229,Low Intent,Retarget with awareness ad or product education,0
+1352,0.00897022,Low Intent,Retarget with awareness ad or product education,0
+5216,0.42814913,Medium Intent,Send educational content about Nattoguard benefits,0
+4171,0.011542748,Low Intent,Retarget with awareness ad or product education,0
+206,0.01088221,Low Intent,Retarget with awareness ad or product education,0
+8471,0.87799674,High Intent,Send checkout reminder or limited-time offer,1
+7265,0.18300258,Low Intent,Retarget with awareness ad or product education,0
+7512,0.15289089,Low Intent,Retarget with awareness ad or product education,0
+11185,0.15280955,Low Intent,Retarget with awareness ad or product education,1
+1148,0.98266304,High Intent,Send checkout reminder or limited-time offer,1
+10138,0.8867655,High Intent,Send checkout reminder or limited-time offer,1
+3553,0.00385725,Low Intent,Retarget with awareness ad or product education,0
+9716,0.098286435,Low Intent,Retarget with awareness ad or product education,0
+2840,0.00456756,Low Intent,Retarget with awareness ad or product education,0
+9148,0.18095766,Low Intent,Retarget with awareness ad or product education,0
+5578,0.43763766,Medium Intent,Send educational content about Nattoguard benefits,0
+8616,0.9549347,High Intent,Send checkout reminder or limited-time offer,0
+1608,0.0116877975,Low Intent,Retarget with awareness ad or product education,0
+10101,0.3924487,Low Intent,Retarget with awareness ad or product education,0
+4204,0.2426524,Low Intent,Retarget with awareness ad or product education,0
+6175,0.013391822,Low Intent,Retarget with awareness ad or product education,0
+4986,0.0038245292,Low Intent,Retarget with awareness ad or product education,0
+10852,0.8676986,High Intent,Send checkout reminder or limited-time offer,0
+844,0.9036924,High Intent,Send checkout reminder or limited-time offer,0
+1166,0.023753796,Low Intent,Retarget with awareness ad or product education,0
+8417,0.1806499,Low Intent,Retarget with awareness ad or product education,0
+7956,0.9780165,High Intent,Send checkout reminder or limited-time offer,1
+4226,0.007034098,Low Intent,Retarget with awareness ad or product education,0
+786,0.6389964,Medium Intent,Send educational content about Nattoguard benefits,0
+6127,0.1488682,Low Intent,Retarget with awareness ad or product education,0
+6421,0.44926727,Medium Intent,Send educational content about Nattoguard benefits,0
+5290,0.670218,Medium Intent,Send educational content about Nattoguard benefits,1
+7955,0.106292546,Low Intent,Retarget with awareness ad or product education,0
+3465,0.0016145401,Low Intent,Retarget with awareness ad or product education,0
+6069,0.012593016,Low Intent,Retarget with awareness ad or product education,0
+9161,0.19207795,Low Intent,Retarget with awareness ad or product education,0
+10072,0.43996438,Medium Intent,Send educational content about Nattoguard benefits,0
+8082,0.09426959,Low Intent,Retarget with awareness ad or product education,0
+11106,0.80347544,High Intent,Send checkout reminder or limited-time offer,0
+4563,0.0048363544,Low Intent,Retarget with awareness ad or product education,0
+1410,0.01985086,Low Intent,Retarget with awareness ad or product education,0
+7458,0.9423853,High Intent,Send checkout reminder or limited-time offer,1
+10667,0.22847696,Low Intent,Retarget with awareness ad or product education,0
+10578,0.004190163,Low Intent,Retarget with awareness ad or product education,0
+10992,0.16850047,Low Intent,Retarget with awareness ad or product education,0
+10357,0.01652117,Low Intent,Retarget with awareness ad or product education,0
+4464,0.004674043,Low Intent,Retarget with awareness ad or product education,0
+5423,0.32751778,Low Intent,Retarget with awareness ad or product education,0
+432,0.009480791,Low Intent,Retarget with awareness ad or product education,0
+3019,0.0010682275,Low Intent,Retarget with awareness ad or product education,0
+11000,0.25134927,Low Intent,Retarget with awareness ad or product education,0
+11740,0.06710996,Low Intent,Retarget with awareness ad or product education,0
+1785,0.017697943,Low Intent,Retarget with awareness ad or product education,0
+831,0.013860167,Low Intent,Retarget with awareness ad or product education,0
+5614,0.028706733,Low Intent,Retarget with awareness ad or product education,0
+6532,0.9890177,High Intent,Send checkout reminder or limited-time offer,1
+5412,0.6406881,Medium Intent,Send educational content about Nattoguard benefits,0
+8664,0.031469945,Low Intent,Retarget with awareness ad or product education,0
+11314,0.29610527,Low Intent,Retarget with awareness ad or product education,0
+11,0.01952447,Low Intent,Retarget with awareness ad or product education,0
+10327,0.32862636,Low Intent,Retarget with awareness ad or product education,0
+2630,0.0047439095,Low Intent,Retarget with awareness ad or product education,0
+2718,0.013028041,Low Intent,Retarget with awareness ad or product education,0
+1980,0.016975654,Low Intent,Retarget with awareness ad or product education,0
+1468,0.014399684,Low Intent,Retarget with awareness ad or product education,0
+12020,0.28660896,Low Intent,Retarget with awareness ad or product education,0
+10966,0.19052243,Low Intent,Retarget with awareness ad or product education,0
+3594,0.003156895,Low Intent,Retarget with awareness ad or product education,0
+6047,0.08071396,Low Intent,Retarget with awareness ad or product education,0
+4170,0.5905364,Medium Intent,Send educational content about Nattoguard benefits,0
+3384,0.0077889343,Low Intent,Retarget with awareness ad or product education,0
+4158,0.0019002018,Low Intent,Retarget with awareness ad or product education,0
+1520,0.023796078,Low Intent,Retarget with awareness ad or product education,0
+2050,0.0044918717,Low Intent,Retarget with awareness ad or product education,0
+8676,0.2213531,Low Intent,Retarget with awareness ad or product education,0
+11795,0.021443592,Low Intent,Retarget with awareness ad or product education,0
+3603,0.004619836,Low Intent,Retarget with awareness ad or product education,0
+2958,0.82774705,High Intent,Send checkout reminder or limited-time offer,0
+4061,0.98917425,High Intent,Send checkout reminder or limited-time offer,1
+9051,0.19237849,Low Intent,Retarget with awareness ad or product education,0
+9990,0.064638,Low Intent,Retarget with awareness ad or product education,0
+7353,0.8478333,High Intent,Send checkout reminder or limited-time offer,0
+11772,0.0067063533,Low Intent,Retarget with awareness ad or product education,0
+3189,0.015532379,Low Intent,Retarget with awareness ad or product education,0
+8111,0.42676044,Medium Intent,Send educational content about Nattoguard benefits,1
+4373,0.011983593,Low Intent,Retarget with awareness ad or product education,0
+1858,0.023980517,Low Intent,Retarget with awareness ad or product education,0
+3295,0.001351673,Low Intent,Retarget with awareness ad or product education,0
+4586,0.97846746,High Intent,Send checkout reminder or limited-time offer,1
+711,0.009614841,Low Intent,Retarget with awareness ad or product education,0
+9963,0.019449458,Low Intent,Retarget with awareness ad or product education,0
+5430,0.16865025,Low Intent,Retarget with awareness ad or product education,0
+10539,0.41773635,Medium Intent,Send educational content about Nattoguard benefits,0
+8947,0.110150754,Low Intent,Retarget with awareness ad or product education,0
+4487,0.95826983,High Intent,Send checkout reminder or limited-time offer,1
+9117,0.13974634,Low Intent,Retarget with awareness ad or product education,0
+897,0.025237164,Low Intent,Retarget with awareness ad or product education,0
+10741,0.45278147,Medium Intent,Send educational content about Nattoguard benefits,0
+4000,0.007880811,Low Intent,Retarget with awareness ad or product education,0
+11283,0.30303422,Low Intent,Retarget with awareness ad or product education,0
+2435,0.42386907,Medium Intent,Send educational content about Nattoguard benefits,0
+5830,0.29168966,Low Intent,Retarget with awareness ad or product education,0
+11368,0.28882277,Low Intent,Retarget with awareness ad or product education,0
+5439,0.9760543,High Intent,Send checkout reminder or limited-time offer,1
+5886,0.2992331,Low Intent,Retarget with awareness ad or product education,0
+8461,0.27368885,Low Intent,Retarget with awareness ad or product education,1
+8936,0.17888273,Low Intent,Retarget with awareness ad or product education,0
+9728,0.24992368,Low Intent,Retarget with awareness ad or product education,0
+2837,0.0071844556,Low Intent,Retarget with awareness ad or product education,0
+4247,0.0008479377,Low Intent,Retarget with awareness ad or product education,0
+1975,0.01725001,Low Intent,Retarget with awareness ad or product education,0
+859,0.030916044,Low Intent,Retarget with awareness ad or product education,0
+487,0.0017790351,Low Intent,Retarget with awareness ad or product education,0
+6258,0.5138123,Medium Intent,Send educational content about Nattoguard benefits,0
+3297,0.007356965,Low Intent,Retarget with awareness ad or product education,0
+11067,0.033584204,Low Intent,Retarget with awareness ad or product education,0
+6559,0.28154102,Low Intent,Retarget with awareness ad or product education,0
+3857,0.0045624827,Low Intent,Retarget with awareness ad or product education,0
+11172,0.08163036,Low Intent,Retarget with awareness ad or product education,0
+3548,0.0009451056,Low Intent,Retarget with awareness ad or product education,0
+11548,0.4670896,Medium Intent,Send educational content about Nattoguard benefits,0
+1304,0.0013875518,Low Intent,Retarget with awareness ad or product education,0
+9925,0.25027987,Low Intent,Retarget with awareness ad or product education,1
+196,0.8962023,High Intent,Send checkout reminder or limited-time offer,1
+10277,0.17006953,Low Intent,Retarget with awareness ad or product education,0
+1881,0.014062524,Low Intent,Retarget with awareness ad or product education,0
+12024,0.19213973,Low Intent,Retarget with awareness ad or product education,0
+6644,0.14406684,Low Intent,Retarget with awareness ad or product education,0
+11454,0.24508356,Low Intent,Retarget with awareness ad or product education,0
+2002,0.017974861,Low Intent,Retarget with awareness ad or product education,0
+12063,0.84172976,High Intent,Send checkout reminder or limited-time offer,0
+1328,0.021082897,Low Intent,Retarget with awareness ad or product education,0
+6560,0.9228828,High Intent,Send checkout reminder or limited-time offer,1
+8504,0.56350946,Medium Intent,Send educational content about Nattoguard benefits,0
+11253,0.0686777,Low Intent,Retarget with awareness ad or product education,0
+10471,0.16448042,Low Intent,Retarget with awareness ad or product education,0
+8006,0.72117907,Medium Intent,Send educational content about Nattoguard benefits,1
+4552,0.9477356,High Intent,Send checkout reminder or limited-time offer,1
+373,0.017054116,Low Intent,Retarget with awareness ad or product education,0
+659,0.0034715019,Low Intent,Retarget with awareness ad or product education,0
+11547,0.18206435,Low Intent,Retarget with awareness ad or product education,0
+73,0.07512546,Low Intent,Retarget with awareness ad or product education,0
+8206,0.014366959,Low Intent,Retarget with awareness ad or product education,0
+2303,0.0033464022,Low Intent,Retarget with awareness ad or product education,0
+10695,0.06880389,Low Intent,Retarget with awareness ad or product education,0
+5731,0.5337654,Medium Intent,Send educational content about Nattoguard benefits,1
+4610,0.19656439,Low Intent,Retarget with awareness ad or product education,0
+8573,0.8180937,High Intent,Send checkout reminder or limited-time offer,1
+6292,0.09915497,Low Intent,Retarget with awareness ad or product education,0
+5017,0.6988825,Medium Intent,Send educational content about Nattoguard benefits,0
+3031,0.007752371,Low Intent,Retarget with awareness ad or product education,0
+7472,0.72248024,Medium Intent,Send educational content about Nattoguard benefits,0
+11081,0.107862875,Low Intent,Retarget with awareness ad or product education,0
+5581,0.09692651,Low Intent,Retarget with awareness ad or product education,0
+9492,0.16859205,Low Intent,Retarget with awareness ad or product education,0
+9858,0.86771953,High Intent,Send checkout reminder or limited-time offer,0
+1796,0.0021285433,Low Intent,Retarget with awareness ad or product education,0
+4382,0.84879375,High Intent,Send checkout reminder or limited-time offer,0
+2604,0.0015998473,Low Intent,Retarget with awareness ad or product education,0
+8971,0.0040582274,Low Intent,Retarget with awareness ad or product education,0
+6814,0.98824304,High Intent,Send checkout reminder or limited-time offer,1
+896,0.00610025,Low Intent,Retarget with awareness ad or product education,0
+993,0.0018374413,Low Intent,Retarget with awareness ad or product education,0
+6564,0.28008443,Low Intent,Retarget with awareness ad or product education,0
+11828,0.038220696,Low Intent,Retarget with awareness ad or product education,0
+873,0.023217684,Low Intent,Retarget with awareness ad or product education,0
+423,0.004470538,Low Intent,Retarget with awareness ad or product education,0
+4769,0.7554343,High Intent,Send checkout reminder or limited-time offer,1
+8961,0.35203475,Low Intent,Retarget with awareness ad or product education,0
+3427,0.0034483564,Low Intent,Retarget with awareness ad or product education,0
+4002,0.0011781775,Low Intent,Retarget with awareness ad or product education,0
+8945,0.66283226,Medium Intent,Send educational content about Nattoguard benefits,1
+336,0.03297112,Low Intent,Retarget with awareness ad or product education,0
+4952,0.0014594238,Low Intent,Retarget with awareness ad or product education,0
+348,0.010682867,Low Intent,Retarget with awareness ad or product education,0
+10676,0.9225019,High Intent,Send checkout reminder or limited-time offer,1
+8789,0.6226628,Medium Intent,Send educational content about Nattoguard benefits,1
+11694,0.042728722,Low Intent,Retarget with awareness ad or product education,0
+7718,0.027175019,Low Intent,Retarget with awareness ad or product education,0
+11886,0.17652008,Low Intent,Retarget with awareness ad or product education,0
+8771,0.908801,High Intent,Send checkout reminder or limited-time offer,0
+8600,0.548631,Medium Intent,Send educational content about Nattoguard benefits,0
+718,0.01527371,Low Intent,Retarget with awareness ad or product education,0
+6222,0.9612992,High Intent,Send checkout reminder or limited-time offer,1
+1253,0.006074804,Low Intent,Retarget with awareness ad or product education,0
+7132,0.19594166,Low Intent,Retarget with awareness ad or product education,0
+7242,0.19051884,Low Intent,Retarget with awareness ad or product education,1
+8195,0.09760068,Low Intent,Retarget with awareness ad or product education,0
+11745,0.079537004,Low Intent,Retarget with awareness ad or product education,0
+10926,0.31889132,Low Intent,Retarget with awareness ad or product education,1
+5939,0.12079339,Low Intent,Retarget with awareness ad or product education,0
+1439,0.0027738423,Low Intent,Retarget with awareness ad or product education,0
+6858,0.2222145,Low Intent,Retarget with awareness ad or product education,0
+2417,0.84955055,High Intent,Send checkout reminder or limited-time offer,0
+11801,0.31667852,Low Intent,Retarget with awareness ad or product education,0
+263,0.016105503,Low Intent,Retarget with awareness ad or product education,0
+10513,0.06199934,Low Intent,Retarget with awareness ad or product education,1
+7799,0.9796895,High Intent,Send checkout reminder or limited-time offer,1
+6403,0.5663495,Medium Intent,Send educational content about Nattoguard benefits,0
+11036,0.4177895,Medium Intent,Send educational content about Nattoguard benefits,0
+6759,0.14347437,Low Intent,Retarget with awareness ad or product education,0
+6542,0.20060903,Low Intent,Retarget with awareness ad or product education,0
+11956,0.28807446,Low Intent,Retarget with awareness ad or product education,0
+5663,0.20398256,Low Intent,Retarget with awareness ad or product education,0
+12037,0.3135296,Low Intent,Retarget with awareness ad or product education,0
+6233,0.8662235,High Intent,Send checkout reminder or limited-time offer,1
+7702,0.30092254,Low Intent,Retarget with awareness ad or product education,0
+4823,0.000618957,Low Intent,Retarget with awareness ad or product education,0
+4592,0.01215741,Low Intent,Retarget with awareness ad or product education,0
+11855,0.77000886,High Intent,Send checkout reminder or limited-time offer,0
+10508,0.22150849,Low Intent,Retarget with awareness ad or product education,0
+5785,0.025834158,Low Intent,Retarget with awareness ad or product education,0
+3614,0.0015953676,Low Intent,Retarget with awareness ad or product education,0
+7558,0.18924308,Low Intent,Retarget with awareness ad or product education,0
+5180,0.5573212,Medium Intent,Send educational content about Nattoguard benefits,0
+4133,0.0056820204,Low Intent,Retarget with awareness ad or product education,0
+10212,0.75916934,High Intent,Send checkout reminder or limited-time offer,0
+2218,0.009310079,Low Intent,Retarget with awareness ad or product education,0
+9954,0.7375898,Medium Intent,Send educational content about Nattoguard benefits,0
+8341,0.8944251,High Intent,Send checkout reminder or limited-time offer,0
+7765,0.9710261,High Intent,Send checkout reminder or limited-time offer,1
+5172,0.00834861,Low Intent,Retarget with awareness ad or product education,0
+96,0.036251538,Low Intent,Retarget with awareness ad or product education,0
+917,0.0014563154,Low Intent,Retarget with awareness ad or product education,0
+823,0.022492293,Low Intent,Retarget with awareness ad or product education,0
+1931,0.0066290437,Low Intent,Retarget with awareness ad or product education,0
+161,0.027904363,Low Intent,Retarget with awareness ad or product education,0
+970,0.03199458,Low Intent,Retarget with awareness ad or product education,0
+1454,0.020347988,Low Intent,Retarget with awareness ad or product education,0
+9337,0.048103232,Low Intent,Retarget with awareness ad or product education,0
+4716,0.016933953,Low Intent,Retarget with awareness ad or product education,0
+164,0.01598827,Low Intent,Retarget with awareness ad or product education,0
+1235,0.0100365225,Low Intent,Retarget with awareness ad or product education,0
+8133,0.019780925,Low Intent,Retarget with awareness ad or product education,0
+11662,0.74676406,Medium Intent,Send educational content about Nattoguard benefits,1
+1671,0.015128938,Low Intent,Retarget with awareness ad or product education,0
+852,0.014107039,Low Intent,Retarget with awareness ad or product education,0
+2251,0.010614014,Low Intent,Retarget with awareness ad or product education,0
+1935,0.025061637,Low Intent,Retarget with awareness ad or product education,0
+11631,0.13188003,Low Intent,Retarget with awareness ad or product education,0
+1924,0.022367977,Low Intent,Retarget with awareness ad or product education,0
+2608,0.010035945,Low Intent,Retarget with awareness ad or product education,0
+447,0.030964263,Low Intent,Retarget with awareness ad or product education,0
+12154,0.5293196,Medium Intent,Send educational content about Nattoguard benefits,0
+4766,0.0017802335,Low Intent,Retarget with awareness ad or product education,0
+11273,0.32730123,Low Intent,Retarget with awareness ad or product education,0
+2141,0.017306523,Low Intent,Retarget with awareness ad or product education,0
+1906,0.033378545,Low Intent,Retarget with awareness ad or product education,0
+11877,0.15348768,Low Intent,Retarget with awareness ad or product education,0
+6891,0.96962535,High Intent,Send checkout reminder or limited-time offer,1
+2547,0.9872311,High Intent,Send checkout reminder or limited-time offer,1
+2013,0.031141236,Low Intent,Retarget with awareness ad or product education,0
+9151,0.015816862,Low Intent,Retarget with awareness ad or product education,0
+7271,0.6119061,Medium Intent,Send educational content about Nattoguard benefits,1
+7591,0.34174567,Low Intent,Retarget with awareness ad or product education,1
+10782,0.06675387,Low Intent,Retarget with awareness ad or product education,0
+3727,0.0067663854,Low Intent,Retarget with awareness ad or product education,0
+9138,0.031670436,Low Intent,Retarget with awareness ad or product education,0
+10044,0.2098991,Low Intent,Retarget with awareness ad or product education,0
+9532,0.22449337,Low Intent,Retarget with awareness ad or product education,0
+7936,0.08428477,Low Intent,Retarget with awareness ad or product education,0
+3430,0.007642962,Low Intent,Retarget with awareness ad or product education,0
+11790,0.8750573,High Intent,Send checkout reminder or limited-time offer,0
+7917,0.04857707,Low Intent,Retarget with awareness ad or product education,0
+1920,0.96055526,High Intent,Send checkout reminder or limited-time offer,1
+9380,0.08136116,Low Intent,Retarget with awareness ad or product education,0
+755,0.021990698,Low Intent,Retarget with awareness ad or product education,0
+8064,0.06422858,Low Intent,Retarget with awareness ad or product education,0
+4532,0.00911309,Low Intent,Retarget with awareness ad or product education,0
+312,0.029810866,Low Intent,Retarget with awareness ad or product education,0
+12180,0.18296695,Low Intent,Retarget with awareness ad or product education,0
+9224,0.2092502,Low Intent,Retarget with awareness ad or product education,0
+543,0.016073331,Low Intent,Retarget with awareness ad or product education,0
+10258,0.097397335,Low Intent,Retarget with awareness ad or product education,0
+2195,0.0048098736,Low Intent,Retarget with awareness ad or product education,0
+8695,0.6540391,Medium Intent,Send educational content about Nattoguard benefits,1
+8496,0.64002264,Medium Intent,Send educational content about Nattoguard benefits,0
+8891,0.43687066,Medium Intent,Send educational content about Nattoguard benefits,0
+12158,0.06401204,Low Intent,Retarget with awareness ad or product education,0
+7251,0.224946,Low Intent,Retarget with awareness ad or product education,0
+10248,0.9875844,High Intent,Send checkout reminder or limited-time offer,1
+11836,0.23907574,Low Intent,Retarget with awareness ad or product education,0
+6672,0.93538994,High Intent,Send checkout reminder or limited-time offer,0
+11071,0.10518567,Low Intent,Retarget with awareness ad or product education,0
+9612,0.07176169,Low Intent,Retarget with awareness ad or product education,0
+2373,0.005700891,Low Intent,Retarget with awareness ad or product education,0
+12185,0.17642982,Low Intent,Retarget with awareness ad or product education,0
+10717,0.1244838,Low Intent,Retarget with awareness ad or product education,0
+6671,0.09477575,Low Intent,Retarget with awareness ad or product education,0
+6868,0.27218232,Low Intent,Retarget with awareness ad or product education,0
+3963,0.0005320715,Low Intent,Retarget with awareness ad or product education,0
+6257,0.013078796,Low Intent,Retarget with awareness ad or product education,0
+10501,0.211736,Low Intent,Retarget with awareness ad or product education,0
+11269,0.9772486,High Intent,Send checkout reminder or limited-time offer,1
+6957,0.0073737265,Low Intent,Retarget with awareness ad or product education,0
+9032,0.16238491,Low Intent,Retarget with awareness ad or product education,0
+2578,0.0076409257,Low Intent,Retarget with awareness ad or product education,0
+7549,0.36797616,Low Intent,Retarget with awareness ad or product education,0
+11507,0.18137173,Low Intent,Retarget with awareness ad or product education,0
+8113,0.35918507,Low Intent,Retarget with awareness ad or product education,0
+7213,0.27105895,Low Intent,Retarget with awareness ad or product education,0
+4848,0.8696087,High Intent,Send checkout reminder or limited-time offer,1
+1309,0.0054716924,Low Intent,Retarget with awareness ad or product education,0
+12192,0.111054264,Low Intent,Retarget with awareness ad or product education,0
+7643,0.24406722,Low Intent,Retarget with awareness ad or product education,0
+975,0.016120698,Low Intent,Retarget with awareness ad or product education,0
+8639,0.6962074,Medium Intent,Send educational content about Nattoguard benefits,0
+4245,0.0034530885,Low Intent,Retarget with awareness ad or product education,0
+9975,0.7763768,High Intent,Send checkout reminder or limited-time offer,0
+7977,0.09100241,Low Intent,Retarget with awareness ad or product education,0
+10134,0.1351661,Low Intent,Retarget with awareness ad or product education,0
+4265,0.72281533,Medium Intent,Send educational content about Nattoguard benefits,0
+8712,0.030269835,Low Intent,Retarget with awareness ad or product education,0
+1113,0.0067180297,Low Intent,Retarget with awareness ad or product education,0
+9632,0.94976175,High Intent,Send checkout reminder or limited-time offer,1
+8065,0.22054316,Low Intent,Retarget with awareness ad or product education,0
+588,0.0071449233,Low Intent,Retarget with awareness ad or product education,0
+3001,0.72065985,Medium Intent,Send educational content about Nattoguard benefits,0
+5010,0.0016507775,Low Intent,Retarget with awareness ad or product education,0
+2174,0.0060146353,Low Intent,Retarget with awareness ad or product education,0
+1153,0.034120668,Low Intent,Retarget with awareness ad or product education,0
+5643,0.23380508,Low Intent,Retarget with awareness ad or product education,0
+10135,0.36089665,Low Intent,Retarget with awareness ad or product education,0
+9298,0.0981427,Low Intent,Retarget with awareness ad or product education,0
+8223,0.40108234,Medium Intent,Send educational content about Nattoguard benefits,0
+8105,0.44679826,Medium Intent,Send educational content about Nattoguard benefits,0
+1871,0.0017683938,Low Intent,Retarget with awareness ad or product education,0
+3824,0.3130268,Low Intent,Retarget with awareness ad or product education,0
+10061,0.15874498,Low Intent,Retarget with awareness ad or product education,0
+9450,0.93693304,High Intent,Send checkout reminder or limited-time offer,1
+5212,0.9530289,High Intent,Send checkout reminder or limited-time offer,1
+761,0.022390641,Low Intent,Retarget with awareness ad or product education,0
+7456,0.4149777,Medium Intent,Send educational content about Nattoguard benefits,0
+1004,0.009446573,Low Intent,Retarget with awareness ad or product education,0
+1028,0.9364215,High Intent,Send checkout reminder or limited-time offer,1
+11731,0.7424316,Medium Intent,Send educational content about Nattoguard benefits,0
+3498,0.00603929,Low Intent,Retarget with awareness ad or product education,0
+3306,0.0064298576,Low Intent,Retarget with awareness ad or product education,0
+4651,0.013677662,Low Intent,Retarget with awareness ad or product education,0
+11302,0.032110013,Low Intent,Retarget with awareness ad or product education,0
+6264,0.1169918,Low Intent,Retarget with awareness ad or product education,0
+10442,0.46509644,Medium Intent,Send educational content about Nattoguard benefits,1
+5166,0.0092560025,Low Intent,Retarget with awareness ad or product education,0
+9867,0.53032243,Medium Intent,Send educational content about Nattoguard benefits,0
+2677,0.010123328,Low Intent,Retarget with awareness ad or product education,0
+1806,0.017977191,Low Intent,Retarget with awareness ad or product education,0
+360,0.013068035,Low Intent,Retarget with awareness ad or product education,0
+696,0.022869427,Low Intent,Retarget with awareness ad or product education,0
+11331,0.9373071,High Intent,Send checkout reminder or limited-time offer,1
+4718,0.019139731,Low Intent,Retarget with awareness ad or product education,0
+10730,0.9085338,High Intent,Send checkout reminder or limited-time offer,0
+6928,0.13823678,Low Intent,Retarget with awareness ad or product education,0
+8565,0.02792418,Low Intent,Retarget with awareness ad or product education,0
+9315,0.019855786,Low Intent,Retarget with awareness ad or product education,0
+2089,0.004856316,Low Intent,Retarget with awareness ad or product education,0
+6570,0.011930171,Low Intent,Retarget with awareness ad or product education,0
+7227,0.27581787,Low Intent,Retarget with awareness ad or product education,0
+10896,0.27196082,Low Intent,Retarget with awareness ad or product education,0
+2679,0.48643643,Medium Intent,Send educational content about Nattoguard benefits,0
+3634,0.0005521507,Low Intent,Retarget with awareness ad or product education,0
+1101,0.0009153971,Low Intent,Retarget with awareness ad or product education,0
+5317,0.7819511,High Intent,Send checkout reminder or limited-time offer,1
+7453,0.14133912,Low Intent,Retarget with awareness ad or product education,0
+11414,0.9362526,High Intent,Send checkout reminder or limited-time offer,1
+5113,0.97364455,High Intent,Send checkout reminder or limited-time offer,1
+9462,0.09360789,Low Intent,Retarget with awareness ad or product education,0
+10178,0.093075395,Low Intent,Retarget with awareness ad or product education,0
+10614,0.17899011,Low Intent,Retarget with awareness ad or product education,0
+4949,0.9741372,High Intent,Send checkout reminder or limited-time offer,1
+11080,0.5504353,Medium Intent,Send educational content about Nattoguard benefits,0
+8979,0.16259186,Low Intent,Retarget with awareness ad or product education,0
+6044,0.27920237,Low Intent,Retarget with awareness ad or product education,0
+2523,0.92993265,High Intent,Send checkout reminder or limited-time offer,0
+3092,0.009384488,Low Intent,Retarget with awareness ad or product education,0
+6189,0.25586742,Low Intent,Retarget with awareness ad or product education,0
+4620,0.005806792,Low Intent,Retarget with awareness ad or product education,0
+11017,0.054719083,Low Intent,Retarget with awareness ad or product education,0
+2594,0.0062388643,Low Intent,Retarget with awareness ad or product education,0
+3671,0.009444472,Low Intent,Retarget with awareness ad or product education,0
+11897,0.5302785,Medium Intent,Send educational content about Nattoguard benefits,1
+9906,0.10588145,Low Intent,Retarget with awareness ad or product education,0
+3607,0.008531527,Low Intent,Retarget with awareness ad or product education,0
+7234,0.38470677,Low Intent,Retarget with awareness ad or product education,1
+8454,0.10603619,Low Intent,Retarget with awareness ad or product education,0
+10524,0.33228186,Low Intent,Retarget with awareness ad or product education,0
+8481,0.65922236,Medium Intent,Send educational content about Nattoguard benefits,1
+6864,0.17973769,Low Intent,Retarget with awareness ad or product education,0
+2573,0.0068002264,Low Intent,Retarget with awareness ad or product education,0
+5184,0.0046367506,Low Intent,Retarget with awareness ad or product education,0
+10520,0.24736442,Low Intent,Retarget with awareness ad or product education,0
+9125,0.9298001,High Intent,Send checkout reminder or limited-time offer,1
+10280,0.96167,High Intent,Send checkout reminder or limited-time offer,1
+4134,0.02197875,Low Intent,Retarget with awareness ad or product education,0
+6684,0.8580068,High Intent,Send checkout reminder or limited-time offer,0
+6781,0.35502508,Low Intent,Retarget with awareness ad or product education,0
+3797,0.0060235476,Low Intent,Retarget with awareness ad or product education,0
+8425,0.06768668,Low Intent,Retarget with awareness ad or product education,0
+10924,0.27009252,Low Intent,Retarget with awareness ad or product education,0
+841,0.02562386,Low Intent,Retarget with awareness ad or product education,0
+3834,0.9691367,High Intent,Send checkout reminder or limited-time offer,1
+11023,0.22188187,Low Intent,Retarget with awareness ad or product education,0
+8560,0.20549342,Low Intent,Retarget with awareness ad or product education,0
+3233,0.006574456,Low Intent,Retarget with awareness ad or product education,0
+10836,0.16154568,Low Intent,Retarget with awareness ad or product education,0
+2742,0.018704496,Low Intent,Retarget with awareness ad or product education,0
+10065,0.8649337,High Intent,Send checkout reminder or limited-time offer,1
+2923,0.0016510221,Low Intent,Retarget with awareness ad or product education,0
+358,0.01251291,Low Intent,Retarget with awareness ad or product education,0
+10033,0.9330689,High Intent,Send checkout reminder or limited-time offer,1
+7351,0.8669492,High Intent,Send checkout reminder or limited-time offer,1
+5452,0.5788119,Medium Intent,Send educational content about Nattoguard benefits,0
+3533,0.0020375515,Low Intent,Retarget with awareness ad or product education,0
+2359,0.033504184,Low Intent,Retarget with awareness ad or product education,0
+1265,0.014772328,Low Intent,Retarget with awareness ad or product education,0
+11234,0.89417326,High Intent,Send checkout reminder or limited-time offer,1
+4456,0.007115433,Low Intent,Retarget with awareness ad or product education,0
+3121,0.0053242347,Low Intent,Retarget with awareness ad or product education,0
+8937,0.30724987,Low Intent,Retarget with awareness ad or product education,0
+5707,0.32480487,Low Intent,Retarget with awareness ad or product education,0
+8699,0.09229922,Low Intent,Retarget with awareness ad or product education,0
+1428,0.5225441,Medium Intent,Send educational content about Nattoguard benefits,1
+3896,0.004564177,Low Intent,Retarget with awareness ad or product education,0
+3768,0.0031974763,Low Intent,Retarget with awareness ad or product education,0
+6610,0.19374195,Low Intent,Retarget with awareness ad or product education,0
+4480,0.00388606,Low Intent,Retarget with awareness ad or product education,0
+6451,0.26928335,Low Intent,Retarget with awareness ad or product education,0
+6097,0.17649436,Low Intent,Retarget with awareness ad or product education,0
+8685,0.22671247,Low Intent,Retarget with awareness ad or product education,0
+248,0.016310371,Low Intent,Retarget with awareness ad or product education,0
+5799,0.011022934,Low Intent,Retarget with awareness ad or product education,0
+7055,0.011019555,Low Intent,Retarget with awareness ad or product education,0
+4042,0.005609688,Low Intent,Retarget with awareness ad or product education,0
+8038,0.9774473,High Intent,Send checkout reminder or limited-time offer,1
+6358,0.25566286,Low Intent,Retarget with awareness ad or product education,0
+2770,0.015448635,Low Intent,Retarget with awareness ad or product education,0
+4856,0.0113035925,Low Intent,Retarget with awareness ad or product education,0
+9882,0.018066578,Low Intent,Retarget with awareness ad or product education,0
+1146,0.013300144,Low Intent,Retarget with awareness ad or product education,0
+2617,0.7977866,High Intent,Send checkout reminder or limited-time offer,1
+4658,0.0023576377,Low Intent,Retarget with awareness ad or product education,0
+4080,0.00839832,Low Intent,Retarget with awareness ad or product education,0
+2459,0.0072182915,Low Intent,Retarget with awareness ad or product education,0
+11840,0.05153234,Low Intent,Retarget with awareness ad or product education,0
+7102,0.14036341,Low Intent,Retarget with awareness ad or product education,0
+3340,0.01161149,Low Intent,Retarget with awareness ad or product education,0
+8762,0.08964792,Low Intent,Retarget with awareness ad or product education,0
+10830,0.53559804,Medium Intent,Send educational content about Nattoguard benefits,0
+7607,0.2637643,Low Intent,Retarget with awareness ad or product education,0
+7568,0.04898125,Low Intent,Retarget with awareness ad or product education,0
+6748,0.79591876,High Intent,Send checkout reminder or limited-time offer,0
+6018,0.41746357,Medium Intent,Send educational content about Nattoguard benefits,0
+513,0.010397525,Low Intent,Retarget with awareness ad or product education,0
+2651,0.40966082,Medium Intent,Send educational content about Nattoguard benefits,0
+3358,0.01222079,Low Intent,Retarget with awareness ad or product education,0
+4506,0.0105191795,Low Intent,Retarget with awareness ad or product education,0
+3088,0.00085172383,Low Intent,Retarget with awareness ad or product education,0
+10427,0.3393177,Low Intent,Retarget with awareness ad or product education,0
+8028,0.605369,Medium Intent,Send educational content about Nattoguard benefits,0
+4489,0.8782147,High Intent,Send checkout reminder or limited-time offer,1
+9568,0.18010542,Low Intent,Retarget with awareness ad or product education,0
+5005,0.9404849,High Intent,Send checkout reminder or limited-time offer,1
+5828,0.12902358,Low Intent,Retarget with awareness ad or product education,0
+11315,0.4359507,Medium Intent,Send educational content about Nattoguard benefits,0
+1841,0.035114363,Low Intent,Retarget with awareness ad or product education,0
+4045,0.0039318237,Low Intent,Retarget with awareness ad or product education,0
+1766,0.013163064,Low Intent,Retarget with awareness ad or product education,0
+11489,0.48317888,Medium Intent,Send educational content about Nattoguard benefits,0
+11224,0.83349293,High Intent,Send checkout reminder or limited-time offer,0
+1641,0.013328238,Low Intent,Retarget with awareness ad or product education,0
+875,0.022700692,Low Intent,Retarget with awareness ad or product education,0
+2897,0.91684186,High Intent,Send checkout reminder or limited-time offer,1
+2128,0.48974207,Medium Intent,Send educational content about Nattoguard benefits,1
+10340,0.08453874,Low Intent,Retarget with awareness ad or product education,0
+4187,0.01567702,Low Intent,Retarget with awareness ad or product education,0
+4893,0.019910747,Low Intent,Retarget with awareness ad or product education,0
+5904,0.19987658,Low Intent,Retarget with awareness ad or product education,0
+8848,0.14562021,Low Intent,Retarget with awareness ad or product education,0
+7691,0.9604165,High Intent,Send checkout reminder or limited-time offer,1
+9614,0.38890868,Low Intent,Retarget with awareness ad or product education,0
+2337,0.014696216,Low Intent,Retarget with awareness ad or product education,0
+675,0.021914704,Low Intent,Retarget with awareness ad or product education,0
+591,0.77884483,High Intent,Send checkout reminder or limited-time offer,1
+7664,0.066036716,Low Intent,Retarget with awareness ad or product education,0
+5500,0.14730252,Low Intent,Retarget with awareness ad or product education,0
+11304,0.47200072,Medium Intent,Send educational content about Nattoguard benefits,0
+2293,0.009296964,Low Intent,Retarget with awareness ad or product education,0
+2838,0.006704892,Low Intent,Retarget with awareness ad or product education,0
+5832,0.12241074,Low Intent,Retarget with awareness ad or product education,0
+3838,0.99459654,High Intent,Send checkout reminder or limited-time offer,1
+7981,0.0117363185,Low Intent,Retarget with awareness ad or product education,0
+2767,0.00067825936,Low Intent,Retarget with awareness ad or product education,0
+64,0.0037460115,Low Intent,Retarget with awareness ad or product education,0
+7484,0.9507429,High Intent,Send checkout reminder or limited-time offer,0
+11644,0.11489124,Low Intent,Retarget with awareness ad or product education,0
+9616,0.1656636,Low Intent,Retarget with awareness ad or product education,0
+1162,0.03184741,Low Intent,Retarget with awareness ad or product education,0
+7171,0.22175407,Low Intent,Retarget with awareness ad or product education,0
+10326,0.89366215,High Intent,Send checkout reminder or limited-time offer,1
+10076,0.54220957,Medium Intent,Send educational content about Nattoguard benefits,0
+6825,0.8328612,High Intent,Send checkout reminder or limited-time offer,0
+10866,0.466605,Medium Intent,Send educational content about Nattoguard benefits,1
+12184,0.13776559,Low Intent,Retarget with awareness ad or product education,0
+8946,0.70957714,Medium Intent,Send educational content about Nattoguard benefits,0
+8325,0.35742623,Low Intent,Retarget with awareness ad or product education,0
+2300,0.0021840783,Low Intent,Retarget with awareness ad or product education,0
+4707,0.015634144,Low Intent,Retarget with awareness ad or product education,0
+3955,0.008157148,Low Intent,Retarget with awareness ad or product education,0
+11028,0.8378558,High Intent,Send checkout reminder or limited-time offer,1
+10550,0.06991161,Low Intent,Retarget with awareness ad or product education,0
+5171,0.011123838,Low Intent,Retarget with awareness ad or product education,0
+3589,0.9181862,High Intent,Send checkout reminder or limited-time offer,0
+6186,0.25273895,Low Intent,Retarget with awareness ad or product education,1
+5448,0.09725354,Low Intent,Retarget with awareness ad or product education,0
+2123,0.0046420507,Low Intent,Retarget with awareness ad or product education,0
+8574,0.9673023,High Intent,Send checkout reminder or limited-time offer,1
+8351,0.012516517,Low Intent,Retarget with awareness ad or product education,0
+5411,0.989931,High Intent,Send checkout reminder or limited-time offer,1
+5090,0.004633497,Low Intent,Retarget with awareness ad or product education,0
+996,0.03915633,Low Intent,Retarget with awareness ad or product education,0
+9908,0.044198044,Low Intent,Retarget with awareness ad or product education,0
+7569,0.2965381,Low Intent,Retarget with awareness ad or product education,0
+5334,0.0045671263,Low Intent,Retarget with awareness ad or product education,0
+8400,0.15877506,Low Intent,Retarget with awareness ad or product education,0
+1519,0.013656848,Low Intent,Retarget with awareness ad or product education,0
+3046,0.0052580656,Low Intent,Retarget with awareness ad or product education,0
+5275,0.0036737653,Low Intent,Retarget with awareness ad or product education,0
+9881,0.81562084,High Intent,Send checkout reminder or limited-time offer,1
+445,0.028833998,Low Intent,Retarget with awareness ad or product education,0
+2313,0.003131808,Low Intent,Retarget with awareness ad or product education,0
+2274,0.0006744704,Low Intent,Retarget with awareness ad or product education,0
+1689,0.0013987055,Low Intent,Retarget with awareness ad or product education,0
+6798,0.10626431,Low Intent,Retarget with awareness ad or product education,0
+3137,0.9849224,High Intent,Send checkout reminder or limited-time offer,1
+8456,0.6038487,Medium Intent,Send educational content about Nattoguard benefits,0
+11757,0.07113238,Low Intent,Retarget with awareness ad or product education,0
+5378,0.2848273,Low Intent,Retarget with awareness ad or product education,0
+1314,0.0317205,Low Intent,Retarget with awareness ad or product education,0
+1323,0.062360235,Low Intent,Retarget with awareness ad or product education,0
+9564,0.22647102,Low Intent,Retarget with awareness ad or product education,0
+2347,0.0056838393,Low Intent,Retarget with awareness ad or product education,0
+7764,0.96395355,High Intent,Send checkout reminder or limited-time offer,1
+5885,0.24874793,Low Intent,Retarget with awareness ad or product education,0
+11516,0.06656208,Low Intent,Retarget with awareness ad or product education,0
+8050,0.6440358,Medium Intent,Send educational content about Nattoguard benefits,1
+1545,0.0229423,Low Intent,Retarget with awareness ad or product education,0
+6294,0.1845151,Low Intent,Retarget with awareness ad or product education,0
+7605,0.20409282,Low Intent,Retarget with awareness ad or product education,0
+8474,0.42860386,Medium Intent,Send educational content about Nattoguard benefits,0
+10817,0.026617961,Low Intent,Retarget with awareness ad or product education,0
+12153,0.91703844,High Intent,Send checkout reminder or limited-time offer,0
+2213,0.005400639,Low Intent,Retarget with awareness ad or product education,0
+8330,0.80214685,High Intent,Send checkout reminder or limited-time offer,1
+557,0.0061723343,Low Intent,Retarget with awareness ad or product education,0
+10152,0.4735288,Medium Intent,Send educational content about Nattoguard benefits,0
+10126,0.3340679,Low Intent,Retarget with awareness ad or product education,1
+8120,0.37666702,Low Intent,Retarget with awareness ad or product education,0
+1360,0.020346131,Low Intent,Retarget with awareness ad or product education,0
+9028,0.084389314,Low Intent,Retarget with awareness ad or product education,0
+8198,0.25037676,Low Intent,Retarget with awareness ad or product education,0
+4981,0.57169604,Medium Intent,Send educational content about Nattoguard benefits,0
+3398,0.0018894442,Low Intent,Retarget with awareness ad or product education,0
+3036,0.0071120486,Low Intent,Retarget with awareness ad or product education,0
+644,0.025333267,Low Intent,Retarget with awareness ad or product education,0
+11147,0.92213887,High Intent,Send checkout reminder or limited-time offer,1
+4600,0.008931694,Low Intent,Retarget with awareness ad or product education,0
+11122,0.7676627,High Intent,Send checkout reminder or limited-time offer,1
+3164,0.009525639,Low Intent,Retarget with awareness ad or product education,0
+203,0.98490083,High Intent,Send checkout reminder or limited-time offer,1
+6886,0.30465648,Low Intent,Retarget with awareness ad or product education,1
+11661,0.84904593,High Intent,Send checkout reminder or limited-time offer,1
+2901,0.002803601,Low Intent,Retarget with awareness ad or product education,0
+7438,0.093159206,Low Intent,Retarget with awareness ad or product education,0
+6942,0.28486645,Low Intent,Retarget with awareness ad or product education,0
+10927,0.21142559,Low Intent,Retarget with awareness ad or product education,0
+1416,0.00151872,Low Intent,Retarget with awareness ad or product education,0
+4930,0.010522411,Low Intent,Retarget with awareness ad or product education,0
+5384,0.1859029,Low Intent,Retarget with awareness ad or product education,0
+607,0.02547032,Low Intent,Retarget with awareness ad or product education,0
+10684,0.19610809,Low Intent,Retarget with awareness ad or product education,0
+2038,0.012273756,Low Intent,Retarget with awareness ad or product education,0
+151,0.005404585,Low Intent,Retarget with awareness ad or product education,0
+4284,0.00035712178,Low Intent,Retarget with awareness ad or product education,0
+2310,0.0071384953,Low Intent,Retarget with awareness ad or product education,0
+7164,0.31816167,Low Intent,Retarget with awareness ad or product education,0
+4550,0.8491766,High Intent,Send checkout reminder or limited-time offer,0
+10790,0.18726721,Low Intent,Retarget with awareness ad or product education,0
+7101,0.074409455,Low Intent,Retarget with awareness ad or product education,0
+9386,0.14491315,Low Intent,Retarget with awareness ad or product education,0
+11575,0.09571052,Low Intent,Retarget with awareness ad or product education,0
+1147,0.0013956564,Low Intent,Retarget with awareness ad or product education,0
+79,0.004205873,Low Intent,Retarget with awareness ad or product education,0
+11590,0.018459465,Low Intent,Retarget with awareness ad or product education,0
+10760,0.22677568,Low Intent,Retarget with awareness ad or product education,0
+440,0.010556668,Low Intent,Retarget with awareness ad or product education,0
+1827,0.011757497,Low Intent,Retarget with awareness ad or product education,0
+6139,0.22187191,Low Intent,Retarget with awareness ad or product education,0
+11231,0.41891864,Medium Intent,Send educational content about Nattoguard benefits,0
+8083,0.066919774,Low Intent,Retarget with awareness ad or product education,0
+2991,0.0053723315,Low Intent,Retarget with awareness ad or product education,0
+6004,0.24692796,Low Intent,Retarget with awareness ad or product education,0
+6296,0.09611617,Low Intent,Retarget with awareness ad or product education,0
+11904,0.10564325,Low Intent,Retarget with awareness ad or product education,0
+11282,0.6021969,Medium Intent,Send educational content about Nattoguard benefits,0
+8952,0.80989546,High Intent,Send checkout reminder or limited-time offer,1
+7919,0.042584166,Low Intent,Retarget with awareness ad or product education,0
+3111,0.80963415,High Intent,Send checkout reminder or limited-time offer,1
+10792,0.3111108,Low Intent,Retarget with awareness ad or product education,0
+7783,0.31632292,Low Intent,Retarget with awareness ad or product education,0
+3663,0.00507795,Low Intent,Retarget with awareness ad or product education,0
+5125,0.84866124,High Intent,Send checkout reminder or limited-time offer,1
+11620,0.65970725,Medium Intent,Send educational content about Nattoguard benefits,0
+1051,0.021911075,Low Intent,Retarget with awareness ad or product education,0
+609,0.048852038,Low Intent,Retarget with awareness ad or product education,0
+8538,0.87920845,High Intent,Send checkout reminder or limited-time offer,1
+8888,0.115676194,Low Intent,Retarget with awareness ad or product education,0
+4859,0.007473443,Low Intent,Retarget with awareness ad or product education,0
+3796,0.0065074135,Low Intent,Retarget with awareness ad or product education,0
+3494,0.0030062504,Low Intent,Retarget with awareness ad or product education,0
+1510,0.015549261,Low Intent,Retarget with awareness ad or product education,0
+8897,0.15204044,Low Intent,Retarget with awareness ad or product education,0
+3012,0.0041626235,Low Intent,Retarget with awareness ad or product education,0
+1831,0.03423311,Low Intent,Retarget with awareness ad or product education,0
+5866,0.20198014,Low Intent,Retarget with awareness ad or product education,0
+7475,0.17289627,Low Intent,Retarget with awareness ad or product education,0
+1097,0.0018082692,Low Intent,Retarget with awareness ad or product education,0
+933,0.02052172,Low Intent,Retarget with awareness ad or product education,0
+8249,0.9069485,High Intent,Send checkout reminder or limited-time offer,1
+5331,0.0029235221,Low Intent,Retarget with awareness ad or product education,0
+2117,0.005159753,Low Intent,Retarget with awareness ad or product education,0
+4294,0.7709119,High Intent,Send checkout reminder or limited-time offer,0
+9869,0.5850918,Medium Intent,Send educational content about Nattoguard benefits,0
+936,0.013312302,Low Intent,Retarget with awareness ad or product education,0
+7821,0.10342933,Low Intent,Retarget with awareness ad or product education,0
+5816,0.71392137,Medium Intent,Send educational content about Nattoguard benefits,0
+1849,0.0025846618,Low Intent,Retarget with awareness ad or product education,0
+6878,0.19248466,Low Intent,Retarget with awareness ad or product education,0
+9585,0.031932283,Low Intent,Retarget with awareness ad or product education,0
+3998,0.003487941,Low Intent,Retarget with awareness ad or product education,0
+4484,0.24880385,Low Intent,Retarget with awareness ad or product education,0
+7147,0.20294371,Low Intent,Retarget with awareness ad or product education,0
+7920,0.28517935,Low Intent,Retarget with awareness ad or product education,0
+2065,0.8000657,High Intent,Send checkout reminder or limited-time offer,0
+7940,0.25689793,Low Intent,Retarget with awareness ad or product education,0
+4067,0.00086576527,Low Intent,Retarget with awareness ad or product education,0
+2271,0.007910296,Low Intent,Retarget with awareness ad or product education,0
+5359,0.03733075,Low Intent,Retarget with awareness ad or product education,0
+9067,0.12737435,Low Intent,Retarget with awareness ad or product education,0
+2338,0.31151164,Low Intent,Retarget with awareness ad or product education,0
+9094,0.10922519,Low Intent,Retarget with awareness ad or product education,0
+4747,0.002840283,Low Intent,Retarget with awareness ad or product education,0
+10098,0.8394249,High Intent,Send checkout reminder or limited-time offer,1
+6800,0.25810963,Low Intent,Retarget with awareness ad or product education,0
+4104,0.0060934196,Low Intent,Retarget with awareness ad or product education,0
+6706,0.18318,Low Intent,Retarget with awareness ad or product education,0
+7720,0.15144883,Low Intent,Retarget with awareness ad or product education,0
+11869,0.8912293,High Intent,Send checkout reminder or limited-time offer,0
+11766,0.96758723,High Intent,Send checkout reminder or limited-time offer,0
+10297,0.1337576,Low Intent,Retarget with awareness ad or product education,0
+7962,0.92601776,High Intent,Send checkout reminder or limited-time offer,1
+3274,0.00064986263,Low Intent,Retarget with awareness ad or product education,0
+10999,0.38384745,Low Intent,Retarget with awareness ad or product education,0
+10619,0.20215297,Low Intent,Retarget with awareness ad or product education,0
+11272,0.94830805,High Intent,Send checkout reminder or limited-time offer,1
+10194,0.23478445,Low Intent,Retarget with awareness ad or product education,0
+2350,0.0026719486,Low Intent,Retarget with awareness ad or product education,0
+3509,0.0067686546,Low Intent,Retarget with awareness ad or product education,0
+11182,0.08595403,Low Intent,Retarget with awareness ad or product education,0
+388,0.0052877935,Low Intent,Retarget with awareness ad or product education,0
+4801,0.005699756,Low Intent,Retarget with awareness ad or product education,0
+5898,0.72379893,Medium Intent,Send educational content about Nattoguard benefits,0
+9175,0.1079356,Low Intent,Retarget with awareness ad or product education,0
+5050,0.013474789,Low Intent,Retarget with awareness ad or product education,0
+11040,0.99046385,High Intent,Send checkout reminder or limited-time offer,1
+6979,0.22486372,Low Intent,Retarget with awareness ad or product education,0
+1778,0.018954601,Low Intent,Retarget with awareness ad or product education,0
+11949,0.18249856,Low Intent,Retarget with awareness ad or product education,0
+8791,0.027193025,Low Intent,Retarget with awareness ad or product education,0
+2138,0.9537805,High Intent,Send checkout reminder or limited-time offer,1
+11520,0.043218102,Low Intent,Retarget with awareness ad or product education,0
+5912,0.009968641,Low Intent,Retarget with awareness ad or product education,0
+6778,0.56245834,Medium Intent,Send educational content about Nattoguard benefits,1
+11260,0.9744563,High Intent,Send checkout reminder or limited-time offer,1
+584,0.021183344,Low Intent,Retarget with awareness ad or product education,0
+7369,0.20711951,Low Intent,Retarget with awareness ad or product education,0
+11217,0.10906467,Low Intent,Retarget with awareness ad or product education,0
+10771,0.92961615,High Intent,Send checkout reminder or limited-time offer,1
+3534,0.3966079,Low Intent,Retarget with awareness ad or product education,0
+1083,0.0011977125,Low Intent,Retarget with awareness ad or product education,0
+223,0.018879144,Low Intent,Retarget with awareness ad or product education,0
+6366,0.11414732,Low Intent,Retarget with awareness ad or product education,0
+5066,0.016232513,Low Intent,Retarget with awareness ad or product education,0
+11632,0.012794428,Low Intent,Retarget with awareness ad or product education,0
+8982,0.057168342,Low Intent,Retarget with awareness ad or product education,0
+5509,0.017222565,Low Intent,Retarget with awareness ad or product education,0
+6785,0.14070658,Low Intent,Retarget with awareness ad or product education,0
+8085,0.774338,High Intent,Send checkout reminder or limited-time offer,1
+7243,0.7655023,High Intent,Send checkout reminder or limited-time offer,1
+1106,0.01090245,Low Intent,Retarget with awareness ad or product education,0
+120,0.03464543,Low Intent,Retarget with awareness ad or product education,0
+5789,0.9431644,High Intent,Send checkout reminder or limited-time offer,1
+1137,0.021220814,Low Intent,Retarget with awareness ad or product education,0
+8602,0.6653329,Medium Intent,Send educational content about Nattoguard benefits,0
+3501,0.004592828,Low Intent,Retarget with awareness ad or product education,0
+10193,0.8627628,High Intent,Send checkout reminder or limited-time offer,1
+1091,0.026316807,Low Intent,Retarget with awareness ad or product education,0
+8630,0.5358687,Medium Intent,Send educational content about Nattoguard benefits,0
+4253,0.42601445,Medium Intent,Send educational content about Nattoguard benefits,0
+1353,0.017917236,Low Intent,Retarget with awareness ad or product education,0
+2173,0.0054985755,Low Intent,Retarget with awareness ad or product education,0
+434,0.019679315,Low Intent,Retarget with awareness ad or product education,0
+38,0.03139014,Low Intent,Retarget with awareness ad or product education,0
+8491,0.038898807,Low Intent,Retarget with awareness ad or product education,0
+3748,0.013028999,Low Intent,Retarget with awareness ad or product education,0
+8218,0.14625014,Low Intent,Retarget with awareness ad or product education,1
+1286,0.04389244,Low Intent,Retarget with awareness ad or product education,0
+7619,0.24207848,Low Intent,Retarget with awareness ad or product education,0
+11675,0.25632793,Low Intent,Retarget with awareness ad or product education,1
+1826,0.030410001,Low Intent,Retarget with awareness ad or product education,0
+3880,0.0040621725,Low Intent,Retarget with awareness ad or product education,0
+592,0.019201426,Low Intent,Retarget with awareness ad or product education,0
+5154,0.0007113228,Low Intent,Retarget with awareness ad or product education,0
+9590,0.059369672,Low Intent,Retarget with awareness ad or product education,0
+9423,0.014972242,Low Intent,Retarget with awareness ad or product education,0
+1078,0.020847484,Low Intent,Retarget with awareness ad or product education,0
+1300,0.95916307,High Intent,Send checkout reminder or limited-time offer,1
+2009,0.024621183,Low Intent,Retarget with awareness ad or product education,0
+3469,0.98010063,High Intent,Send checkout reminder or limited-time offer,1
+6893,0.6369452,Medium Intent,Send educational content about Nattoguard benefits,0
+2190,0.008960983,Low Intent,Retarget with awareness ad or product education,0
+11239,0.8809589,High Intent,Send checkout reminder or limited-time offer,1
+7618,0.83454245,High Intent,Send checkout reminder or limited-time offer,0
+9520,0.28867233,Low Intent,Retarget with awareness ad or product education,0
+7091,0.5247329,Medium Intent,Send educational content about Nattoguard benefits,0
+11102,0.056342453,Low Intent,Retarget with awareness ad or product education,0
+6576,0.38491732,Low Intent,Retarget with awareness ad or product education,0
+10229,0.05150141,Low Intent,Retarget with awareness ad or product education,0
+6757,0.7967564,High Intent,Send checkout reminder or limited-time offer,0
+7630,0.85940856,High Intent,Send checkout reminder or limited-time offer,0
+10163,0.73611164,Medium Intent,Send educational content about Nattoguard benefits,1
+3370,0.019078799,Low Intent,Retarget with awareness ad or product education,0
+884,0.0098914625,Low Intent,Retarget with awareness ad or product education,0
+6848,0.42655537,Medium Intent,Send educational content about Nattoguard benefits,0
+7639,0.7031296,Medium Intent,Send educational content about Nattoguard benefits,0
+594,0.012576295,Low Intent,Retarget with awareness ad or product education,0
+3884,0.0075958306,Low Intent,Retarget with awareness ad or product education,0
+418,0.020325411,Low Intent,Retarget with awareness ad or product education,0
+6830,0.25437683,Low Intent,Retarget with awareness ad or product education,0
+11213,0.15557487,Low Intent,Retarget with awareness ad or product education,0
+10507,0.21992521,Low Intent,Retarget with awareness ad or product education,0
+8557,0.018417161,Low Intent,Retarget with awareness ad or product education,0
+6803,0.53384084,Medium Intent,Send educational content about Nattoguard benefits,0
+1217,0.0077337483,Low Intent,Retarget with awareness ad or product education,0
+1411,0.06721742,Low Intent,Retarget with awareness ad or product education,0
+6533,0.29701984,Low Intent,Retarget with awareness ad or product education,0
+4262,0.4183166,Medium Intent,Send educational content about Nattoguard benefits,1
+7625,0.94883835,High Intent,Send checkout reminder or limited-time offer,1
+8053,0.20610093,Low Intent,Retarget with awareness ad or product education,0
+5948,0.3436221,Low Intent,Retarget with awareness ad or product education,0
+11681,0.15127508,Low Intent,Retarget with awareness ad or product education,1
+4165,0.0022871515,Low Intent,Retarget with awareness ad or product education,0
+9731,0.2913213,Low Intent,Retarget with awareness ad or product education,1
+6134,0.17945449,Low Intent,Retarget with awareness ad or product education,0
+10225,0.1418485,Low Intent,Retarget with awareness ad or product education,0
+8806,0.50943744,Medium Intent,Send educational content about Nattoguard benefits,1
+9919,0.34016773,Low Intent,Retarget with awareness ad or product education,0
+6256,0.5229463,Medium Intent,Send educational content about Nattoguard benefits,0
+10320,0.38869953,Low Intent,Retarget with awareness ad or product education,0
+4307,0.4245993,Medium Intent,Send educational content about Nattoguard benefits,1
+5822,0.011628696,Low Intent,Retarget with awareness ad or product education,0
+3504,0.0057813646,Low Intent,Retarget with awareness ad or product education,0
+5756,0.11940686,Low Intent,Retarget with awareness ad or product education,0
+6716,0.21374127,Low Intent,Retarget with awareness ad or product education,0
+5657,0.2749288,Low Intent,Retarget with awareness ad or product education,0
+7825,0.08190247,Low Intent,Retarget with awareness ad or product education,0
+8453,0.05508355,Low Intent,Retarget with awareness ad or product education,0
+6788,0.6246131,Medium Intent,Send educational content about Nattoguard benefits,0
+6265,0.9320887,High Intent,Send checkout reminder or limited-time offer,0
+2086,0.011874105,Low Intent,Retarget with awareness ad or product education,0
+3633,0.0059749126,Low Intent,Retarget with awareness ad or product education,0
+10331,0.9141011,High Intent,Send checkout reminder or limited-time offer,1
+1036,0.01243852,Low Intent,Retarget with awareness ad or product education,0
+7109,0.1916105,Low Intent,Retarget with awareness ad or product education,0
+9479,0.88139516,High Intent,Send checkout reminder or limited-time offer,0
+6713,0.20541835,Low Intent,Retarget with awareness ad or product education,0
+5952,0.070453435,Low Intent,Retarget with awareness ad or product education,0
+11413,0.55286294,Medium Intent,Send educational content about Nattoguard benefits,0
+2277,0.008949726,Low Intent,Retarget with awareness ad or product education,0
+7425,0.13225381,Low Intent,Retarget with awareness ad or product education,0
+11554,0.56443805,Medium Intent,Send educational content about Nattoguard benefits,0
+6425,0.27053958,Low Intent,Retarget with awareness ad or product education,0
+3105,0.0043292055,Low Intent,Retarget with awareness ad or product education,0
+8413,0.22894843,Low Intent,Retarget with awareness ad or product education,1
+2816,0.008961872,Low Intent,Retarget with awareness ad or product education,0
+4736,0.006761282,Low Intent,Retarget with awareness ad or product education,0
+10541,0.94497424,High Intent,Send checkout reminder or limited-time offer,1
+10723,0.16992505,Low Intent,Retarget with awareness ad or product education,1
+6768,0.07378168,Low Intent,Retarget with awareness ad or product education,0
+3766,0.009335296,Low Intent,Retarget with awareness ad or product education,0
+5498,0.6399772,Medium Intent,Send educational content about Nattoguard benefits,0
+6080,0.17880109,Low Intent,Retarget with awareness ad or product education,0
+198,0.0074704057,Low Intent,Retarget with awareness ad or product education,0
+6015,0.4406391,Medium Intent,Send educational content about Nattoguard benefits,0
+924,0.039274815,Low Intent,Retarget with awareness ad or product education,0
+4047,0.013602462,Low Intent,Retarget with awareness ad or product education,0
+9341,0.17205754,Low Intent,Retarget with awareness ad or product education,0
+3815,0.02084489,Low Intent,Retarget with awareness ad or product education,0
+4317,0.0071887355,Low Intent,Retarget with awareness ad or product education,0
+10010,0.11615806,Low Intent,Retarget with awareness ad or product education,0
+216,0.022711966,Low Intent,Retarget with awareness ad or product education,0
+321,0.07757706,Low Intent,Retarget with awareness ad or product education,0
+12149,0.043483634,Low Intent,Retarget with awareness ad or product education,0
+156,0.0059838262,Low Intent,Retarget with awareness ad or product education,0
+12006,0.18074684,Low Intent,Retarget with awareness ad or product education,0
+11207,0.33554283,Low Intent,Retarget with awareness ad or product education,0
+143,0.003581914,Low Intent,Retarget with awareness ad or product education,0
+7410,0.9197682,High Intent,Send checkout reminder or limited-time offer,1
+8778,0.37779352,Low Intent,Retarget with awareness ad or product education,0
+10029,0.08600569,Low Intent,Retarget with awareness ad or product education,0
+6873,0.4407966,Medium Intent,Send educational content about Nattoguard benefits,0
+1295,0.019169368,Low Intent,Retarget with awareness ad or product education,0
+9084,0.45287332,Medium Intent,Send educational content about Nattoguard benefits,0
+12014,0.120504975,Low Intent,Retarget with awareness ad or product education,0
+7513,0.023711152,Low Intent,Retarget with awareness ad or product education,1
+5351,0.0046250597,Low Intent,Retarget with awareness ad or product education,0
+9274,0.8556345,High Intent,Send checkout reminder or limited-time offer,0
+7961,0.15698075,Low Intent,Retarget with awareness ad or product education,0
+3393,0.925225,High Intent,Send checkout reminder or limited-time offer,0
+11845,0.16427055,Low Intent,Retarget with awareness ad or product education,0
+10994,0.11338632,Low Intent,Retarget with awareness ad or product education,0
+1625,0.9401476,High Intent,Send checkout reminder or limited-time offer,1
+8530,0.9709682,High Intent,Send checkout reminder or limited-time offer,1
+11114,0.18299994,Low Intent,Retarget with awareness ad or product education,0
+6208,0.66115195,Medium Intent,Send educational content about Nattoguard benefits,1
+2937,0.8125774,High Intent,Send checkout reminder or limited-time offer,1
+8129,0.95885485,High Intent,Send checkout reminder or limited-time offer,1
+6865,0.115638025,Low Intent,Retarget with awareness ad or product education,0
+8853,0.26394394,Low Intent,Retarget with awareness ad or product education,0
+3450,0.008207865,Low Intent,Retarget with awareness ad or product education,0
+5144,0.0045559127,Low Intent,Retarget with awareness ad or product education,0
+54,0.022735126,Low Intent,Retarget with awareness ad or product education,0
+2729,0.93193287,High Intent,Send checkout reminder or limited-time offer,1
+11734,0.5791836,Medium Intent,Send educational content about Nattoguard benefits,0
+10486,0.2318231,Low Intent,Retarget with awareness ad or product education,0
+3539,0.010338139,Low Intent,Retarget with awareness ad or product education,0
+864,0.9687778,High Intent,Send checkout reminder or limited-time offer,1
+10863,0.36959842,Low Intent,Retarget with awareness ad or product education,0
+6219,0.46978822,Medium Intent,Send educational content about Nattoguard benefits,0
+1421,0.007287736,Low Intent,Retarget with awareness ad or product education,0
+2750,0.0074249986,Low Intent,Retarget with awareness ad or product education,0
+8399,0.92731786,High Intent,Send checkout reminder or limited-time offer,1
+1525,0.0015442234,Low Intent,Retarget with awareness ad or product education,0
+6194,0.118689455,Low Intent,Retarget with awareness ad or product education,0
+2787,0.0028540115,Low Intent,Retarget with awareness ad or product education,0
+8187,0.210176,Low Intent,Retarget with awareness ad or product education,0
+9331,0.19797872,Low Intent,Retarget with awareness ad or product education,0
+5214,0.009194857,Low Intent,Retarget with awareness ad or product education,0
+5910,0.09345838,Low Intent,Retarget with awareness ad or product education,0
+4099,0.9773701,High Intent,Send checkout reminder or limited-time offer,1
+3771,0.007116097,Low Intent,Retarget with awareness ad or product education,0
+8423,0.15138271,Low Intent,Retarget with awareness ad or product education,0
+8205,0.99059653,High Intent,Send checkout reminder or limited-time offer,1
+3209,0.009777974,Low Intent,Retarget with awareness ad or product education,0
+2097,0.008913448,Low Intent,Retarget with awareness ad or product education,0
+7263,0.1433598,Low Intent,Retarget with awareness ad or product education,1
+9124,0.9271803,High Intent,Send checkout reminder or limited-time offer,1
+9544,0.53986067,Medium Intent,Send educational content about Nattoguard benefits,0
+1049,0.007842662,Low Intent,Retarget with awareness ad or product education,0
+9713,0.2808004,Low Intent,Retarget with awareness ad or product education,0
+1434,0.0138719175,Low Intent,Retarget with awareness ad or product education,0
+8123,0.16542499,Low Intent,Retarget with awareness ad or product education,0
+8688,0.21492463,Low Intent,Retarget with awareness ad or product education,0
+10988,0.6348967,Medium Intent,Send educational content about Nattoguard benefits,0
+6762,0.013027362,Low Intent,Retarget with awareness ad or product education,0
+7832,0.3231632,Low Intent,Retarget with awareness ad or product education,0
+968,0.020531634,Low Intent,Retarget with awareness ad or product education,0
+4655,0.004504955,Low Intent,Retarget with awareness ad or product education,0
+5641,0.069222525,Low Intent,Retarget with awareness ad or product education,0
+7026,0.1558115,Low Intent,Retarget with awareness ad or product education,0
+3320,0.002134052,Low Intent,Retarget with awareness ad or product education,0
+10243,0.25658146,Low Intent,Retarget with awareness ad or product education,0
+1517,0.013329537,Low Intent,Retarget with awareness ad or product education,0
+8608,0.89413095,High Intent,Send checkout reminder or limited-time offer,1
+1982,0.0016412069,Low Intent,Retarget with awareness ad or product education,0
+7153,0.24230576,Low Intent,Retarget with awareness ad or product education,0
+211,0.028331246,Low Intent,Retarget with awareness ad or product education,0
+11042,0.25559843,Low Intent,Retarget with awareness ad or product education,0
+9985,0.23592776,Low Intent,Retarget with awareness ad or product education,0
+8533,0.14995615,Low Intent,Retarget with awareness ad or product education,0
+7158,0.14138618,Low Intent,Retarget with awareness ad or product education,0
+3729,0.0057765753,Low Intent,Retarget with awareness ad or product education,0
+8890,0.016974343,Low Intent,Retarget with awareness ad or product education,0
+3127,0.0016876542,Low Intent,Retarget with awareness ad or product education,0
+243,0.008395874,Low Intent,Retarget with awareness ad or product education,0
+1371,0.049909256,Low Intent,Retarget with awareness ad or product education,0
+4680,0.31553426,Low Intent,Retarget with awareness ad or product education,0
+6025,0.97788036,High Intent,Send checkout reminder or limited-time offer,1
+11488,0.6385039,Medium Intent,Send educational content about Nattoguard benefits,1
+3053,0.005012826,Low Intent,Retarget with awareness ad or product education,0
+11208,0.5146017,Medium Intent,Send educational content about Nattoguard benefits,0
+275,0.021816358,Low Intent,Retarget with awareness ad or product education,0
+3292,0.33562908,Low Intent,Retarget with awareness ad or product education,0
+11683,0.77184606,High Intent,Send checkout reminder or limited-time offer,1
+80,0.03710539,Low Intent,Retarget with awareness ad or product education,0
+7527,0.1893017,Low Intent,Retarget with awareness ad or product education,0
+4989,0.02080553,Low Intent,Retarget with awareness ad or product education,0
+10448,0.44963363,Medium Intent,Send educational content about Nattoguard benefits,0
+5771,0.12087407,Low Intent,Retarget with awareness ad or product education,0
+9486,0.021868106,Low Intent,Retarget with awareness ad or product education,0
+4561,0.7456677,Medium Intent,Send educational content about Nattoguard benefits,1
+2664,0.0101095615,Low Intent,Retarget with awareness ad or product education,0
+7633,0.86160296,High Intent,Send checkout reminder or limited-time offer,0
+7755,0.56758153,Medium Intent,Send educational content about Nattoguard benefits,0
+3716,0.0047115623,Low Intent,Retarget with awareness ad or product education,0
+11555,0.1189062,Low Intent,Retarget with awareness ad or product education,0
+8288,0.95395154,High Intent,Send checkout reminder or limited-time offer,1
+8228,0.025031233,Low Intent,Retarget with awareness ad or product education,0
+2993,0.0026818898,Low Intent,Retarget with awareness ad or product education,0
+7380,0.05566077,Low Intent,Retarget with awareness ad or product education,0
+10701,0.42498767,Medium Intent,Send educational content about Nattoguard benefits,0
+11546,0.14191952,Low Intent,Retarget with awareness ad or product education,0
+6835,0.08956242,Low Intent,Retarget with awareness ad or product education,0
+5011,0.01375326,Low Intent,Retarget with awareness ad or product education,0
+11502,0.13809104,Low Intent,Retarget with awareness ad or product education,0
+2035,0.033173338,Low Intent,Retarget with awareness ad or product education,0
+4358,0.0032739735,Low Intent,Retarget with awareness ad or product education,0
+4751,0.0066272924,Low Intent,Retarget with awareness ad or product education,0
+2936,0.0047256052,Low Intent,Retarget with awareness ad or product education,0
+6014,0.14820668,Low Intent,Retarget with awareness ad or product education,0
+119,0.011012688,Low Intent,Retarget with awareness ad or product education,0
+11769,0.2564062,Low Intent,Retarget with awareness ad or product education,0
+9521,0.33067632,Low Intent,Retarget with awareness ad or product education,0
+4086,0.9881075,High Intent,Send checkout reminder or limited-time offer,1
+10450,0.13508216,Low Intent,Retarget with awareness ad or product education,1
+21,0.002884147,Low Intent,Retarget with awareness ad or product education,0
+3243,0.0079882555,Low Intent,Retarget with awareness ad or product education,0
+10348,0.5991948,Medium Intent,Send educational content about Nattoguard benefits,0
+8912,0.33074233,Low Intent,Retarget with awareness ad or product education,0
+3438,0.006389341,Low Intent,Retarget with awareness ad or product education,0
+9052,0.06527451,Low Intent,Retarget with awareness ad or product education,0
+10798,0.77763,High Intent,Send checkout reminder or limited-time offer,1
+7181,0.19006132,Low Intent,Retarget with awareness ad or product education,0
+366,0.031363446,Low Intent,Retarget with awareness ad or product education,0
+3416,0.008195495,Low Intent,Retarget with awareness ad or product education,0
+9309,0.13705744,Low Intent,Retarget with awareness ad or product education,0
+10844,0.269363,Low Intent,Retarget with awareness ad or product education,0
+6315,0.12430162,Low Intent,Retarget with awareness ad or product education,0
+8048,0.1072264,Low Intent,Retarget with awareness ad or product education,0
+9745,0.0065662116,Low Intent,Retarget with awareness ad or product education,0
+7640,0.31875217,Low Intent,Retarget with awareness ad or product education,0
+8192,0.07505691,Low Intent,Retarget with awareness ad or product education,0
+7482,0.2361005,Low Intent,Retarget with awareness ad or product education,0
+3237,0.9121327,High Intent,Send checkout reminder or limited-time offer,1
+1724,0.013682616,Low Intent,Retarget with awareness ad or product education,0
+4817,0.0019795473,Low Intent,Retarget with awareness ad or product education,0
+7337,0.7983984,High Intent,Send checkout reminder or limited-time offer,0
+6157,0.9508443,High Intent,Send checkout reminder or limited-time offer,1
+4132,0.013921623,Low Intent,Retarget with awareness ad or product education,0
+7988,0.6906919,Medium Intent,Send educational content about Nattoguard benefits,0
+194,0.027987037,Low Intent,Retarget with awareness ad or product education,0
+3862,0.6744363,Medium Intent,Send educational content about Nattoguard benefits,0
+7474,0.43322605,Medium Intent,Send educational content about Nattoguard benefits,0
+12074,0.18390073,Low Intent,Retarget with awareness ad or product education,0
+12125,0.89318246,High Intent,Send checkout reminder or limited-time offer,0
+3432,0.9791367,High Intent,Send checkout reminder or limited-time offer,1
+5705,0.31771937,Low Intent,Retarget with awareness ad or product education,0
+2540,0.014996317,Low Intent,Retarget with awareness ad or product education,0
+6167,0.13481815,Low Intent,Retarget with awareness ad or product education,0
+1383,0.016115973,Low Intent,Retarget with awareness ad or product education,0
+9481,0.1663857,Low Intent,Retarget with awareness ad or product education,0
+417,0.0009967183,Low Intent,Retarget with awareness ad or product education,0
+11570,0.17204304,Low Intent,Retarget with awareness ad or product education,0
+7151,0.08283887,Low Intent,Retarget with awareness ad or product education,0
+2612,0.010151435,Low Intent,Retarget with awareness ad or product education,0
+11141,0.0527442,Low Intent,Retarget with awareness ad or product education,0
+7916,0.36074802,Low Intent,Retarget with awareness ad or product education,0
+8374,0.09522251,Low Intent,Retarget with awareness ad or product education,0
+7039,0.14941187,Low Intent,Retarget with awareness ad or product education,0
+7711,0.31141537,Low Intent,Retarget with awareness ad or product education,0
+3898,0.0045110364,Low Intent,Retarget with awareness ad or product education,0
+9732,0.04172105,Low Intent,Retarget with awareness ad or product education,0
+6346,0.99388313,High Intent,Send checkout reminder or limited-time offer,1
+9213,0.2891553,Low Intent,Retarget with awareness ad or product education,0
+8925,0.25044477,Low Intent,Retarget with awareness ad or product education,0
+5262,0.014825387,Low Intent,Retarget with awareness ad or product education,0
+8580,0.0073728017,Low Intent,Retarget with awareness ad or product education,0
+3985,0.029668026,Low Intent,Retarget with awareness ad or product education,0
+6547,0.10439912,Low Intent,Retarget with awareness ad or product education,0
+2940,0.75680685,High Intent,Send checkout reminder or limited-time offer,1
+10446,0.9580499,High Intent,Send checkout reminder or limited-time offer,1
+5759,0.26996925,Low Intent,Retarget with awareness ad or product education,0
+2776,0.9884891,High Intent,Send checkout reminder or limited-time offer,1
+4520,0.7062825,Medium Intent,Send educational content about Nattoguard benefits,1
+6200,0.3053895,Low Intent,Retarget with awareness ad or product education,0
+1646,0.052931864,Low Intent,Retarget with awareness ad or product education,0
+918,0.018278318,Low Intent,Retarget with awareness ad or product education,0
+2012,0.04227988,Low Intent,Retarget with awareness ad or product education,0
+7848,0.43340775,Medium Intent,Send educational content about Nattoguard benefits,0
+12038,0.5150359,Medium Intent,Send educational content about Nattoguard benefits,1
+5811,0.006575883,Low Intent,Retarget with awareness ad or product education,0
+9987,0.39998138,Low Intent,Retarget with awareness ad or product education,0
+3230,0.9360492,High Intent,Send checkout reminder or limited-time offer,0
+10989,0.95188624,High Intent,Send checkout reminder or limited-time offer,1
+2734,0.007676314,Low Intent,Retarget with awareness ad or product education,0
+11511,0.20728241,Low Intent,Retarget with awareness ad or product education,0
+560,0.013710869,Low Intent,Retarget with awareness ad or product education,0
+5535,0.23657069,Low Intent,Retarget with awareness ad or product education,0
+11037,0.14892314,Low Intent,Retarget with awareness ad or product education,0
+5130,0.0036840478,Low Intent,Retarget with awareness ad or product education,0
+6655,0.14180285,Low Intent,Retarget with awareness ad or product education,0
+5293,0.000620666,Low Intent,Retarget with awareness ad or product education,0
+4282,0.006563494,Low Intent,Retarget with awareness ad or product education,0
+6699,0.0102407355,Low Intent,Retarget with awareness ad or product education,0
+4216,0.018855326,Low Intent,Retarget with awareness ad or product education,0
+4709,0.73747766,Medium Intent,Send educational content about Nattoguard benefits,0
+9569,0.23034818,Low Intent,Retarget with awareness ad or product education,0
+1196,0.009956075,Low Intent,Retarget with awareness ad or product education,0
+8260,0.4953842,Medium Intent,Send educational content about Nattoguard benefits,1
+320,0.029033713,Low Intent,Retarget with awareness ad or product education,0
+9211,0.6509048,Medium Intent,Send educational content about Nattoguard benefits,0
+5461,0.12244763,Low Intent,Retarget with awareness ad or product education,0
+3016,0.0006505446,Low Intent,Retarget with awareness ad or product education,0
+5012,0.9114982,High Intent,Send checkout reminder or limited-time offer,0
+9942,0.26533365,Low Intent,Retarget with awareness ad or product education,1
+2600,0.011593722,Low Intent,Retarget with awareness ad or product education,0
+11293,0.09896703,Low Intent,Retarget with awareness ad or product education,0
+10680,0.020317204,Low Intent,Retarget with awareness ad or product education,0
+4778,0.012182577,Low Intent,Retarget with awareness ad or product education,0
+11131,0.23827985,Low Intent,Retarget with awareness ad or product education,0
+9392,0.0068111047,Low Intent,Retarget with awareness ad or product education,0
+3979,0.007820465,Low Intent,Retarget with awareness ad or product education,0
+9991,0.8577349,High Intent,Send checkout reminder or limited-time offer,0
+11318,0.06191678,Low Intent,Retarget with awareness ad or product education,0
+7966,0.93056345,High Intent,Send checkout reminder or limited-time offer,1
+9377,0.15473695,Low Intent,Retarget with awareness ad or product education,0
+680,0.008522166,Low Intent,Retarget with awareness ad or product education,0
+2051,0.004738723,Low Intent,Retarget with awareness ad or product education,0
+10497,0.25009403,Low Intent,Retarget with awareness ad or product education,0
+512,0.017807283,Low Intent,Retarget with awareness ad or product education,0
+9512,0.5379086,Medium Intent,Send educational content about Nattoguard benefits,0
+2283,0.0014234356,Low Intent,Retarget with awareness ad or product education,0
+1750,0.03483802,Low Intent,Retarget with awareness ad or product education,0
+5814,0.17198743,Low Intent,Retarget with awareness ad or product education,0
+1538,0.0011619373,Low Intent,Retarget with awareness ad or product education,0
+2103,0.8414649,High Intent,Send checkout reminder or limited-time offer,1
+9750,0.07512083,Low Intent,Retarget with awareness ad or product education,0
+4293,0.6842912,Medium Intent,Send educational content about Nattoguard benefits,1
+3009,0.007749231,Low Intent,Retarget with awareness ad or product education,0
+3660,0.51990956,Medium Intent,Send educational content about Nattoguard benefits,0
+4356,0.01587634,Low Intent,Retarget with awareness ad or product education,0
+8201,0.91019756,High Intent,Send checkout reminder or limited-time offer,1
+9476,0.015465484,Low Intent,Retarget with awareness ad or product education,0
+7538,0.8288466,High Intent,Send checkout reminder or limited-time offer,1
+2686,0.013038371,Low Intent,Retarget with awareness ad or product education,0
+4681,0.004438392,Low Intent,Retarget with awareness ad or product education,0
+7774,0.16606985,Low Intent,Retarget with awareness ad or product education,0
+1134,0.017961668,Low Intent,Retarget with awareness ad or product education,0
+9618,0.7271288,Medium Intent,Send educational content about Nattoguard benefits,0
+1707,0.054689568,Low Intent,Retarget with awareness ad or product education,0
+10391,0.20722951,Low Intent,Retarget with awareness ad or product education,0
+9579,0.00873019,Low Intent,Retarget with awareness ad or product education,0
+11277,0.20763461,Low Intent,Retarget with awareness ad or product education,0
+4304,0.0017570524,Low Intent,Retarget with awareness ad or product education,0
+11019,0.4533568,Medium Intent,Send educational content about Nattoguard benefits,1
+8972,0.17082055,Low Intent,Retarget with awareness ad or product education,0
+5366,0.010783606,Low Intent,Retarget with awareness ad or product education,0
+10100,0.38801688,Low Intent,Retarget with awareness ad or product education,0
+7420,0.8835827,High Intent,Send checkout reminder or limited-time offer,1
+1071,0.8957581,High Intent,Send checkout reminder or limited-time offer,0
+2275,0.0014464312,Low Intent,Retarget with awareness ad or product education,0
+4342,0.0011393961,Low Intent,Retarget with awareness ad or product education,0
+2850,0.006192333,Low Intent,Retarget with awareness ad or product education,0
+4786,0.0071162283,Low Intent,Retarget with awareness ad or product education,0
+1,0.012338976,Low Intent,Retarget with awareness ad or product education,0
+1668,0.015766503,Low Intent,Retarget with awareness ad or product education,0
+10197,0.881255,High Intent,Send checkout reminder or limited-time offer,1
+287,0.020704368,Low Intent,Retarget with awareness ad or product education,0
+11026,0.9170107,High Intent,Send checkout reminder or limited-time offer,1
+519,0.0110341,Low Intent,Retarget with awareness ad or product education,0
+8597,0.92794067,High Intent,Send checkout reminder or limited-time offer,0
+756,0.042159792,Low Intent,Retarget with awareness ad or product education,0
+2160,0.0009061223,Low Intent,Retarget with awareness ad or product education,0
+7478,0.16669679,Low Intent,Retarget with awareness ad or product education,0
+8103,0.76024,High Intent,Send checkout reminder or limited-time offer,0
+1070,0.03146708,Low Intent,Retarget with awareness ad or product education,0
+6066,0.27979153,Low Intent,Retarget with awareness ad or product education,0
+5148,0.0015601307,Low Intent,Retarget with awareness ad or product education,0
+1363,0.002447719,Low Intent,Retarget with awareness ad or product education,0
+4939,0.010740172,Low Intent,Retarget with awareness ad or product education,0
+1675,0.009675844,Low Intent,Retarget with awareness ad or product education,0
+9877,0.09480458,Low Intent,Retarget with awareness ad or product education,0
+5345,0.00070550473,Low Intent,Retarget with awareness ad or product education,0
+9389,0.04319614,Low Intent,Retarget with awareness ad or product education,0
+11458,0.0718905,Low Intent,Retarget with awareness ad or product education,0
+215,0.009160715,Low Intent,Retarget with awareness ad or product education,0
+8953,0.05839259,Low Intent,Retarget with awareness ad or product education,1
+2432,0.016386485,Low Intent,Retarget with awareness ad or product education,0
+3153,0.27425402,Low Intent,Retarget with awareness ad or product education,0
+4668,0.006982987,Low Intent,Retarget with awareness ad or product education,0
+4319,0.009058757,Low Intent,Retarget with awareness ad or product education,0
+3580,0.0006196491,Low Intent,Retarget with awareness ad or product education,0
+904,0.021199247,Low Intent,Retarget with awareness ad or product education,0
+6063,0.25631326,Low Intent,Retarget with awareness ad or product education,0
+3714,0.008674198,Low Intent,Retarget with awareness ad or product education,0
+8544,0.08344688,Low Intent,Retarget with awareness ad or product education,0
+3085,0.0008619435,Low Intent,Retarget with awareness ad or product education,0
+7886,0.13871531,Low Intent,Retarget with awareness ad or product education,0
+10250,0.8343276,High Intent,Send checkout reminder or limited-time offer,1
+7358,0.15073003,Low Intent,Retarget with awareness ad or product education,0
+8579,0.019609153,Low Intent,Retarget with awareness ad or product education,0
+10294,0.24370362,Low Intent,Retarget with awareness ad or product education,0
+5619,0.22302307,Low Intent,Retarget with awareness ad or product education,0
+1904,0.03311135,Low Intent,Retarget with awareness ad or product education,0
+3529,0.0132464785,Low Intent,Retarget with awareness ad or product education,0
+6261,0.053879544,Low Intent,Retarget with awareness ad or product education,0
+136,0.035167255,Low Intent,Retarget with awareness ad or product education,0
+5245,0.0064188605,Low Intent,Retarget with awareness ad or product education,0
+5738,0.31728888,Low Intent,Retarget with awareness ad or product education,0
+8918,0.00856373,Low Intent,Retarget with awareness ad or product education,0
+3694,0.004966909,Low Intent,Retarget with awareness ad or product education,0
+6121,0.29003856,Low Intent,Retarget with awareness ad or product education,0
+6775,0.5517488,Medium Intent,Send educational content about Nattoguard benefits,0
+8489,0.34080544,Low Intent,Retarget with awareness ad or product education,0
+7947,0.24187812,Low Intent,Retarget with awareness ad or product education,0
+10463,0.0715371,Low Intent,Retarget with awareness ad or product education,0
+9336,0.11750626,Low Intent,Retarget with awareness ad or product education,0
+10379,0.30605808,Low Intent,Retarget with awareness ad or product education,1
+1933,0.009204007,Low Intent,Retarget with awareness ad or product education,0
+3339,0.011968533,Low Intent,Retarget with awareness ad or product education,0
+5817,0.4226758,Medium Intent,Send educational content about Nattoguard benefits,0
+8117,0.10155216,Low Intent,Retarget with awareness ad or product education,0
+4004,0.71991277,Medium Intent,Send educational content about Nattoguard benefits,0
+6552,0.037419315,Low Intent,Retarget with awareness ad or product education,0
+4011,0.517147,Medium Intent,Send educational content about Nattoguard benefits,1
+2379,0.0011440662,Low Intent,Retarget with awareness ad or product education,0
+7311,0.2541023,Low Intent,Retarget with awareness ad or product education,0
+9321,0.25198284,Low Intent,Retarget with awareness ad or product education,0
+6171,0.63380903,Medium Intent,Send educational content about Nattoguard benefits,0
+6068,0.656715,Medium Intent,Send educational content about Nattoguard benefits,0
+6140,0.23744299,Low Intent,Retarget with awareness ad or product education,0
+1044,0.007087987,Low Intent,Retarget with awareness ad or product education,0
+2258,0.85645765,High Intent,Send checkout reminder or limited-time offer,0
+7775,0.0042865877,Low Intent,Retarget with awareness ad or product education,0
+4018,0.0007116205,Low Intent,Retarget with awareness ad or product education,0
+1279,0.012972718,Low Intent,Retarget with awareness ad or product education,0
+2669,0.92897,High Intent,Send checkout reminder or limited-time offer,1
+9770,0.18370377,Low Intent,Retarget with awareness ad or product education,0
+8063,0.97569025,High Intent,Send checkout reminder or limited-time offer,1
+927,0.022357881,Low Intent,Retarget with awareness ad or product education,0
+7712,0.095596455,Low Intent,Retarget with awareness ad or product education,0
+2052,0.0009270665,Low Intent,Retarget with awareness ad or product education,0
+10509,0.45461187,Medium Intent,Send educational content about Nattoguard benefits,1
+5436,0.17076705,Low Intent,Retarget with awareness ad or product education,0
+11441,0.30049008,Low Intent,Retarget with awareness ad or product education,0
+9456,0.03510975,Low Intent,Retarget with awareness ad or product education,0
+10983,0.18555741,Low Intent,Retarget with awareness ad or product education,0
+277,0.0074602976,Low Intent,Retarget with awareness ad or product education,0
+4188,0.005137037,Low Intent,Retarget with awareness ad or product education,0
+8058,0.30180842,Low Intent,Retarget with awareness ad or product education,0
+9294,0.048948623,Low Intent,Retarget with awareness ad or product education,0
+715,0.0029987681,Low Intent,Retarget with awareness ad or product education,0
+2165,0.93511105,High Intent,Send checkout reminder or limited-time offer,1
+899,0.01575024,Low Intent,Retarget with awareness ad or product education,0
+3638,0.009841243,Low Intent,Retarget with awareness ad or product education,0
+10005,0.565271,Medium Intent,Send educational content about Nattoguard benefits,1
+8327,0.67636234,Medium Intent,Send educational content about Nattoguard benefits,0
+3096,0.8770467,High Intent,Send checkout reminder or limited-time offer,1
+8931,0.2208199,Low Intent,Retarget with awareness ad or product education,0
+6838,0.010077283,Low Intent,Retarget with awareness ad or product education,0
+7503,0.47202674,Medium Intent,Send educational content about Nattoguard benefits,0
+10890,0.1642877,Low Intent,Retarget with awareness ad or product education,0
+8093,0.120532796,Low Intent,Retarget with awareness ad or product education,0
+1085,0.9478375,High Intent,Send checkout reminder or limited-time offer,1
+8324,0.8520394,High Intent,Send checkout reminder or limited-time offer,1
+967,0.026703352,Low Intent,Retarget with awareness ad or product education,0
+11863,0.11881469,Low Intent,Retarget with awareness ad or product education,0
+7392,0.20049994,Low Intent,Retarget with awareness ad or product education,0
+1135,0.54541385,Medium Intent,Send educational content about Nattoguard benefits,1
+6975,0.81238294,High Intent,Send checkout reminder or limited-time offer,0
+6504,0.54848045,Medium Intent,Send educational content about Nattoguard benefits,0
+5379,0.8870582,High Intent,Send checkout reminder or limited-time offer,1
+8382,0.10647054,Low Intent,Retarget with awareness ad or product education,0
+3039,0.2535586,Low Intent,Retarget with awareness ad or product education,0
+9646,0.9298425,High Intent,Send checkout reminder or limited-time offer,1
+11978,0.3386139,Low Intent,Retarget with awareness ad or product education,0
+613,0.0013037664,Low Intent,Retarget with awareness ad or product education,0
+7734,0.842691,High Intent,Send checkout reminder or limited-time offer,0
+6469,0.10063571,Low Intent,Retarget with awareness ad or product education,0
+3538,0.00073935377,Low Intent,Retarget with awareness ad or product education,0
+724,0.011372528,Low Intent,Retarget with awareness ad or product education,0
+4627,0.009825443,Low Intent,Retarget with awareness ad or product education,0
+4201,0.48197848,Medium Intent,Send educational content about Nattoguard benefits,0
+6662,0.13537323,Low Intent,Retarget with awareness ad or product education,0
+1447,0.017536443,Low Intent,Retarget with awareness ad or product education,0
+5339,0.0147893615,Low Intent,Retarget with awareness ad or product education,0
+10881,0.4921165,Medium Intent,Send educational content about Nattoguard benefits,1
+11906,0.39296836,Low Intent,Retarget with awareness ad or product education,0
+11018,0.29052556,Low Intent,Retarget with awareness ad or product education,1
+1354,0.026750026,Low Intent,Retarget with awareness ad or product education,0
+6491,0.13593581,Low Intent,Retarget with awareness ad or product education,0
+1152,0.98392534,High Intent,Send checkout reminder or limited-time offer,1
+6996,0.97654516,High Intent,Send checkout reminder or limited-time offer,1
+10429,0.621101,Medium Intent,Send educational content about Nattoguard benefits,0
+4844,0.75090986,High Intent,Send checkout reminder or limited-time offer,0
+9562,0.2677828,Low Intent,Retarget with awareness ad or product education,0
+11391,0.06802751,Low Intent,Retarget with awareness ad or product education,0
+9322,0.58930653,Medium Intent,Send educational content about Nattoguard benefits,0
+1860,0.9598124,High Intent,Send checkout reminder or limited-time offer,1
+3820,0.32080042,Low Intent,Retarget with awareness ad or product education,0
+3697,0.012494599,Low Intent,Retarget with awareness ad or product education,0
+2732,0.7714639,High Intent,Send checkout reminder or limited-time offer,1
+9155,0.34935218,Low Intent,Retarget with awareness ad or product education,0
+1362,0.010199975,Low Intent,Retarget with awareness ad or product education,0
+7159,0.8785961,High Intent,Send checkout reminder or limited-time offer,0
+5712,0.5190824,Medium Intent,Send educational content about Nattoguard benefits,1
+4701,0.003875748,Low Intent,Retarget with awareness ad or product education,0
+1034,0.0027249698,Low Intent,Retarget with awareness ad or product education,0
+5194,0.06785158,Low Intent,Retarget with awareness ad or product education,0
+3417,0.00067959673,Low Intent,Retarget with awareness ad or product education,0
+2817,0.00067944295,Low Intent,Retarget with awareness ad or product education,0
+7817,0.1161611,Low Intent,Retarget with awareness ad or product education,0
+2659,0.011255375,Low Intent,Retarget with awareness ad or product education,0
+2704,0.43868035,Medium Intent,Send educational content about Nattoguard benefits,0
+4956,0.6578909,Medium Intent,Send educational content about Nattoguard benefits,0
+10778,0.28673717,Low Intent,Retarget with awareness ad or product education,0
+6270,0.21431172,Low Intent,Retarget with awareness ad or product education,0
+6754,0.020625858,Low Intent,Retarget with awareness ad or product education,0
+5078,0.00066037284,Low Intent,Retarget with awareness ad or product education,0
+6356,0.97989047,High Intent,Send checkout reminder or limited-time offer,1
+2377,0.33488277,Low Intent,Retarget with awareness ad or product education,0
+2276,0.0086171115,Low Intent,Retarget with awareness ad or product education,0
+4659,0.004406526,Low Intent,Retarget with awareness ad or product education,0
+11427,0.0957844,Low Intent,Retarget with awareness ad or product education,0
+8285,0.15528657,Low Intent,Retarget with awareness ad or product education,0
+2622,0.008489962,Low Intent,Retarget with awareness ad or product education,0
+2209,0.8812273,High Intent,Send checkout reminder or limited-time offer,0
+3606,0.011780063,Low Intent,Retarget with awareness ad or product education,0
+6088,0.21571413,Low Intent,Retarget with awareness ad or product education,0
+7924,0.31546423,Low Intent,Retarget with awareness ad or product education,0
+10060,0.9379103,High Intent,Send checkout reminder or limited-time offer,1
+8797,0.11270651,Low Intent,Retarget with awareness ad or product education,0
+8015,0.15713678,Low Intent,Retarget with awareness ad or product education,0
+8344,0.10312115,Low Intent,Retarget with awareness ad or product education,0
+8291,0.95044065,High Intent,Send checkout reminder or limited-time offer,0
+9065,0.13285899,Low Intent,Retarget with awareness ad or product education,0
+7268,0.21347044,Low Intent,Retarget with awareness ad or product education,0
+8680,0.14647926,Low Intent,Retarget with awareness ad or product education,0
+4505,0.67777216,Medium Intent,Send educational content about Nattoguard benefits,0
+8210,0.09913382,Low Intent,Retarget with awareness ad or product education,0
+4711,0.004583146,Low Intent,Retarget with awareness ad or product education,0
+60,0.021269357,Low Intent,Retarget with awareness ad or product education,0
+7406,0.07446203,Low Intent,Retarget with awareness ad or product education,0
+4278,0.0020128204,Low Intent,Retarget with awareness ad or product education,0
+6549,0.22692859,Low Intent,Retarget with awareness ad or product education,0
+7871,0.60988504,Medium Intent,Send educational content about Nattoguard benefits,0
+5310,0.94659996,High Intent,Send checkout reminder or limited-time offer,1
+5879,0.1091106,Low Intent,Retarget with awareness ad or product education,0
+4841,0.0006437169,Low Intent,Retarget with awareness ad or product education,0
+7072,0.09829305,Low Intent,Retarget with awareness ad or product education,0
+3396,0.005085079,Low Intent,Retarget with awareness ad or product education,0
+5891,0.30587888,Low Intent,Retarget with awareness ad or product education,0
+7272,0.22583728,Low Intent,Retarget with awareness ad or product education,0
+4375,0.39465022,Low Intent,Retarget with awareness ad or product education,0
+2060,0.5786145,Medium Intent,Send educational content about Nattoguard benefits,1
+6250,0.13563949,Low Intent,Retarget with awareness ad or product education,0
+2437,0.007051765,Low Intent,Retarget with awareness ad or product education,0
+4118,0.6666881,Medium Intent,Send educational content about Nattoguard benefits,0
+11482,0.30745292,Low Intent,Retarget with awareness ad or product education,0
+8568,0.30049518,Low Intent,Retarget with awareness ad or product education,0
+299,0.00088676927,Low Intent,Retarget with awareness ad or product education,0
+5414,0.15388584,Low Intent,Retarget with awareness ad or product education,0
+11973,0.7462587,Medium Intent,Send educational content about Nattoguard benefits,1
+10543,0.46529582,Medium Intent,Send educational content about Nattoguard benefits,0
+3190,0.33813128,Low Intent,Retarget with awareness ad or product education,0
+9191,0.89889765,High Intent,Send checkout reminder or limited-time offer,1
+9546,0.2987955,Low Intent,Retarget with awareness ad or product education,0
+3826,0.0048950724,Low Intent,Retarget with awareness ad or product education,0
+3713,0.008904476,Low Intent,Retarget with awareness ad or product education,0
+9306,0.06514828,Low Intent,Retarget with awareness ad or product education,0
+3442,0.0020075992,Low Intent,Retarget with awareness ad or product education,0
+4112,0.010929186,Low Intent,Retarget with awareness ad or product education,0
+6522,0.6176101,Medium Intent,Send educational content about Nattoguard benefits,0
+8684,0.09344633,Low Intent,Retarget with awareness ad or product education,0
+1435,0.8244402,High Intent,Send checkout reminder or limited-time offer,1
+6443,0.20433871,Low Intent,Retarget with awareness ad or product education,0
+7996,0.98478323,High Intent,Send checkout reminder or limited-time offer,1
+7105,0.22445723,Low Intent,Retarget with awareness ad or product education,0
+8519,0.9165132,High Intent,Send checkout reminder or limited-time offer,1
+2765,0.0054550096,Low Intent,Retarget with awareness ad or product education,0
+2876,0.6482488,Medium Intent,Send educational content about Nattoguard benefits,0
+100,0.14681269,Low Intent,Retarget with awareness ad or product education,0
+9819,0.03280954,Low Intent,Retarget with awareness ad or product education,0
+7797,0.012954147,Low Intent,Retarget with awareness ad or product education,0
+6692,0.17492613,Low Intent,Retarget with awareness ad or product education,0
+743,0.024591574,Low Intent,Retarget with awareness ad or product education,0
+7565,0.5485145,Medium Intent,Send educational content about Nattoguard benefits,0
+8990,0.22597048,Low Intent,Retarget with awareness ad or product education,0
+10312,0.045487504,Low Intent,Retarget with awareness ad or product education,0
+12134,0.51350164,Medium Intent,Send educational content about Nattoguard benefits,0
+9280,0.27770117,Low Intent,Retarget with awareness ad or product education,0
+3169,0.0053018597,Low Intent,Retarget with awareness ad or product education,0
+5545,0.16774005,Low Intent,Retarget with awareness ad or product education,0
+5693,0.2473203,Low Intent,Retarget with awareness ad or product education,0
+10385,0.05474437,Low Intent,Retarget with awareness ad or product education,0
+5976,0.041753855,Low Intent,Retarget with awareness ad or product education,0
+8018,0.17540239,Low Intent,Retarget with awareness ad or product education,1
+1156,0.0023592857,Low Intent,Retarget with awareness ad or product education,0
+11369,0.14456576,Low Intent,Retarget with awareness ad or product education,0
+4942,0.016480321,Low Intent,Retarget with awareness ad or product education,0
+8704,0.11229797,Low Intent,Retarget with awareness ad or product education,0
+55,0.008739355,Low Intent,Retarget with awareness ad or product education,0
+157,0.03446202,Low Intent,Retarget with awareness ad or product education,0
+8004,0.9725811,High Intent,Send checkout reminder or limited-time offer,1
+5730,0.20012848,Low Intent,Retarget with awareness ad or product education,0
+8150,0.82505095,High Intent,Send checkout reminder or limited-time offer,1
+7599,0.9063443,High Intent,Send checkout reminder or limited-time offer,0
+9873,0.8172571,High Intent,Send checkout reminder or limited-time offer,1
+3705,0.65229887,Medium Intent,Send educational content about Nattoguard benefits,0
+3873,0.9379633,High Intent,Send checkout reminder or limited-time offer,1
+1734,0.8707113,High Intent,Send checkout reminder or limited-time offer,1
+4695,0.0064355563,Low Intent,Retarget with awareness ad or product education,0
+8300,0.22552389,Low Intent,Retarget with awareness ad or product education,0
+7190,0.0793764,Low Intent,Retarget with awareness ad or product education,0
+4694,0.0043510245,Low Intent,Retarget with awareness ad or product education,0
+9206,0.005126068,Low Intent,Retarget with awareness ad or product education,0
+4036,0.64756256,Medium Intent,Send educational content about Nattoguard benefits,0
+8595,0.00894721,Low Intent,Retarget with awareness ad or product education,0
+6718,0.122758575,Low Intent,Retarget with awareness ad or product education,0
+5701,0.9257842,High Intent,Send checkout reminder or limited-time offer,1
+8200,0.036867637,Low Intent,Retarget with awareness ad or product education,0
+8478,0.16384795,Low Intent,Retarget with awareness ad or product education,0
+2114,0.8907902,High Intent,Send checkout reminder or limited-time offer,1
+1040,0.00873575,Low Intent,Retarget with awareness ad or product education,0
+7632,0.2102022,Low Intent,Retarget with awareness ad or product education,0
+5758,0.9475366,High Intent,Send checkout reminder or limited-time offer,1
+5688,0.93761355,High Intent,Send checkout reminder or limited-time offer,0
+4775,0.00042664097,Low Intent,Retarget with awareness ad or product education,0
+10925,0.2550238,Low Intent,Retarget with awareness ad or product education,0
+7022,0.7399602,Medium Intent,Send educational content about Nattoguard benefits,0
+5567,0.08060498,Low Intent,Retarget with awareness ad or product education,0
+5120,0.008936527,Low Intent,Retarget with awareness ad or product education,0
+5065,0.008917859,Low Intent,Retarget with awareness ad or product education,0
+3412,0.9596965,High Intent,Send checkout reminder or limited-time offer,1
+10549,0.22240426,Low Intent,Retarget with awareness ad or product education,0
+1809,0.031713683,Low Intent,Retarget with awareness ad or product education,0
+7907,0.4636581,Medium Intent,Send educational content about Nattoguard benefits,0
+3661,0.0031409408,Low Intent,Retarget with awareness ad or product education,0
+3700,0.011809597,Low Intent,Retarget with awareness ad or product education,0
+2640,0.0130882105,Low Intent,Retarget with awareness ad or product education,0
+611,0.88713086,High Intent,Send checkout reminder or limited-time offer,1
+11242,0.11032182,Low Intent,Retarget with awareness ad or product education,0
+10332,0.6541309,Medium Intent,Send educational content about Nattoguard benefits,1
+9130,0.113760814,Low Intent,Retarget with awareness ad or product education,0
+11530,0.5593555,Medium Intent,Send educational content about Nattoguard benefits,0
+4279,0.007521394,Low Intent,Retarget with awareness ad or product education,0
+3947,0.00079202914,Low Intent,Retarget with awareness ad or product education,0
+4967,0.008654265,Low Intent,Retarget with awareness ad or product education,0
+1580,0.017982917,Low Intent,Retarget with awareness ad or product education,0
+3588,0.00052527705,Low Intent,Retarget with awareness ad or product education,0
+4073,0.8838827,High Intent,Send checkout reminder or limited-time offer,1
+4749,0.65400386,Medium Intent,Send educational content about Nattoguard benefits,0
+1031,0.008356604,Low Intent,Retarget with awareness ad or product education,0
+11308,0.00838182,Low Intent,Retarget with awareness ad or product education,0
+8857,0.6075625,Medium Intent,Send educational content about Nattoguard benefits,1
+8305,0.13589476,Low Intent,Retarget with awareness ad or product education,0
+8126,0.97482985,High Intent,Send checkout reminder or limited-time offer,1
+10597,0.96591103,High Intent,Send checkout reminder or limited-time offer,1
+6285,0.17063981,Low Intent,Retarget with awareness ad or product education,0
+10443,0.47198763,Medium Intent,Send educational content about Nattoguard benefits,0
+833,0.024061104,Low Intent,Retarget with awareness ad or product education,0
+5878,0.1325344,Low Intent,Retarget with awareness ad or product education,0
+7776,0.679329,Medium Intent,Send educational content about Nattoguard benefits,1
+6333,0.96610415,High Intent,Send checkout reminder or limited-time offer,1
+10161,0.08957024,Low Intent,Retarget with awareness ad or product education,0
+13,0.029901847,Low Intent,Retarget with awareness ad or product education,0
+5497,0.021315906,Low Intent,Retarget with awareness ad or product education,0
+4100,0.00281291,Low Intent,Retarget with awareness ad or product education,0
+8167,0.2379552,Low Intent,Retarget with awareness ad or product education,0
+5777,0.2060991,Low Intent,Retarget with awareness ad or product education,0
+4146,0.007140243,Low Intent,Retarget with awareness ad or product education,0
+285,0.015510958,Low Intent,Retarget with awareness ad or product education,0
+11309,0.3595347,Low Intent,Retarget with awareness ad or product education,0
+2375,0.96115905,High Intent,Send checkout reminder or limited-time offer,0
+7918,0.12931108,Low Intent,Retarget with awareness ad or product education,0
+9489,0.0122366585,Low Intent,Retarget with awareness ad or product education,0
+1247,0.06469866,Low Intent,Retarget with awareness ad or product education,0
+1172,0.03176673,Low Intent,Retarget with awareness ad or product education,0
+3831,0.0038868114,Low Intent,Retarget with awareness ad or product education,0
+11615,0.039468654,Low Intent,Retarget with awareness ad or product education,0
+2294,0.00046373453,Low Intent,Retarget with awareness ad or product education,0
+5015,0.0017307764,Low Intent,Retarget with awareness ad or product education,0
+4430,0.011394132,Low Intent,Retarget with awareness ad or product education,0
+7805,0.46792084,Medium Intent,Send educational content about Nattoguard benefits,0
+3755,0.9614206,High Intent,Send checkout reminder or limited-time offer,0
+3872,0.002806649,Low Intent,Retarget with awareness ad or product education,0
+1249,0.020869337,Low Intent,Retarget with awareness ad or product education,0
+4580,0.78559095,High Intent,Send checkout reminder or limited-time offer,0
+8276,0.33289853,Low Intent,Retarget with awareness ad or product education,1
+6146,0.98760754,High Intent,Send checkout reminder or limited-time offer,1
+6523,0.44789705,Medium Intent,Send educational content about Nattoguard benefits,0
+185,0.6468706,Medium Intent,Send educational content about Nattoguard benefits,1
+10586,0.16997857,Low Intent,Retarget with awareness ad or product education,0
+11584,0.44971055,Medium Intent,Send educational content about Nattoguard benefits,0
+10967,0.10271278,Low Intent,Retarget with awareness ad or product education,0
+6442,0.2583489,Low Intent,Retarget with awareness ad or product education,0
+4991,0.9864781,High Intent,Send checkout reminder or limited-time offer,1
+7306,0.17907707,Low Intent,Retarget with awareness ad or product education,0
+1578,0.04189579,Low Intent,Retarget with awareness ad or product education,0
+6325,0.13557233,Low Intent,Retarget with awareness ad or product education,0
+9317,0.19656882,Low Intent,Retarget with awareness ad or product education,0
+681,0.033286337,Low Intent,Retarget with awareness ad or product education,0
+4883,0.005643035,Low Intent,Retarget with awareness ad or product education,0
+3018,0.0032651038,Low Intent,Retarget with awareness ad or product education,0
+2625,0.011197712,Low Intent,Retarget with awareness ad or product education,0
+11513,0.9732781,High Intent,Send checkout reminder or limited-time offer,1
+8272,0.42340413,Medium Intent,Send educational content about Nattoguard benefits,1
+2619,0.009793832,Low Intent,Retarget with awareness ad or product education,0
+6482,0.69033766,Medium Intent,Send educational content about Nattoguard benefits,0
+2535,0.0069475807,Low Intent,Retarget with awareness ad or product education,0
+10731,0.15549037,Low Intent,Retarget with awareness ad or product education,0
+5419,0.03335024,Low Intent,Retarget with awareness ad or product education,0
+6476,0.12578435,Low Intent,Retarget with awareness ad or product education,1
+7407,0.92829126,High Intent,Send checkout reminder or limited-time offer,1
+5303,0.0065037888,Low Intent,Retarget with awareness ad or product education,0
+1801,0.0127972765,Low Intent,Retarget with awareness ad or product education,0
+5013,0.0131049305,Low Intent,Retarget with awareness ad or product education,0
+11389,0.0419155,Low Intent,Retarget with awareness ad or product education,0
+10274,0.007387064,Low Intent,Retarget with awareness ad or product education,0
+9129,0.10535189,Low Intent,Retarget with awareness ad or product education,0
+11977,0.29161194,Low Intent,Retarget with awareness ad or product education,0
+5962,0.74292284,Medium Intent,Send educational content about Nattoguard benefits,0
+5043,0.0070204465,Low Intent,Retarget with awareness ad or product education,0
+3270,0.013186065,Low Intent,Retarget with awareness ad or product education,0
+1817,0.96032876,High Intent,Send checkout reminder or limited-time offer,1
+5071,0.009335543,Low Intent,Retarget with awareness ad or product education,0
+11166,0.9278979,High Intent,Send checkout reminder or limited-time offer,0
+5455,0.19270146,Low Intent,Retarget with awareness ad or product education,0
+10816,0.10560557,Low Intent,Retarget with awareness ad or product education,0
+483,0.8233745,High Intent,Send checkout reminder or limited-time offer,0
+3749,0.011034386,Low Intent,Retarget with awareness ad or product education,0
+1798,0.016347297,Low Intent,Retarget with awareness ad or product education,0
+2031,0.0046345,Low Intent,Retarget with awareness ad or product education,0
+4789,0.0008575946,Low Intent,Retarget with awareness ad or product education,0
+8191,0.89109653,High Intent,Send checkout reminder or limited-time offer,0
+2489,0.0006809644,Low Intent,Retarget with awareness ad or product education,0
+4241,0.0029036188,Low Intent,Retarget with awareness ad or product education,0
+7753,0.4037247,Medium Intent,Send educational content about Nattoguard benefits,1
+16,0.0039053115,Low Intent,Retarget with awareness ad or product education,0
+7318,0.18306048,Low Intent,Retarget with awareness ad or product education,0
+5919,0.8683159,High Intent,Send checkout reminder or limited-time offer,1
+11476,0.411509,Medium Intent,Send educational content about Nattoguard benefits,0
+4113,0.0016219668,Low Intent,Retarget with awareness ad or product education,0
+8883,0.93254066,High Intent,Send checkout reminder or limited-time offer,1
+6263,0.3094924,Low Intent,Retarget with awareness ad or product education,0
+11009,0.03593252,Low Intent,Retarget with awareness ad or product education,0
+11742,0.86187,High Intent,Send checkout reminder or limited-time offer,1
+4638,0.0043052034,Low Intent,Retarget with awareness ad or product education,0
+8720,0.16952436,Low Intent,Retarget with awareness ad or product education,0
+4159,0.9620391,High Intent,Send checkout reminder or limited-time offer,1
+2606,0.02656858,Low Intent,Retarget with awareness ad or product education,0
+11445,0.7990764,High Intent,Send checkout reminder or limited-time offer,1
+926,0.0024937785,Low Intent,Retarget with awareness ad or product education,0
+8877,0.40028223,Medium Intent,Send educational content about Nattoguard benefits,0
+6402,0.23729135,Low Intent,Retarget with awareness ad or product education,0
+2430,0.0071110716,Low Intent,Retarget with awareness ad or product education,0
+7897,0.07512003,Low Intent,Retarget with awareness ad or product education,0
+9110,0.14815576,Low Intent,Retarget with awareness ad or product education,0
+9116,0.2020661,Low Intent,Retarget with awareness ad or product education,0
+7557,0.3554904,Low Intent,Retarget with awareness ad or product education,0
+7229,0.19008005,Low Intent,Retarget with awareness ad or product education,1
+8025,0.33371818,Low Intent,Retarget with awareness ad or product education,1
+1913,0.030139577,Low Intent,Retarget with awareness ad or product education,0
+8154,0.0071611954,Low Intent,Retarget with awareness ad or product education,0
+269,0.02846435,Low Intent,Retarget with awareness ad or product education,0
+7971,0.07162382,Low Intent,Retarget with awareness ad or product education,0
+4432,0.009784268,Low Intent,Retarget with awareness ad or product education,0
+2738,0.8861587,High Intent,Send checkout reminder or limited-time offer,0
+6771,0.007515665,Low Intent,Retarget with awareness ad or product education,0
+12087,0.0975094,Low Intent,Retarget with awareness ad or product education,0
+295,0.001211648,Low Intent,Retarget with awareness ad or product education,0
+9844,0.14547105,Low Intent,Retarget with awareness ad or product education,0
+9518,0.08131794,Low Intent,Retarget with awareness ad or product education,0
+3761,0.01156168,Low Intent,Retarget with awareness ad or product education,0
+2136,0.49184424,Medium Intent,Send educational content about Nattoguard benefits,0
+5541,0.9702057,High Intent,Send checkout reminder or limited-time offer,1
+11748,0.071790144,Low Intent,Retarget with awareness ad or product education,0
+744,0.6870862,Medium Intent,Send educational content about Nattoguard benefits,0
+11501,0.26456147,Low Intent,Retarget with awareness ad or product education,0
+12191,0.052312035,Low Intent,Retarget with awareness ad or product education,0
+9421,0.03840423,Low Intent,Retarget with awareness ad or product education,0
+4088,0.065391205,Low Intent,Retarget with awareness ad or product education,0
+8144,0.23872371,Low Intent,Retarget with awareness ad or product education,0
+7985,0.9421041,High Intent,Send checkout reminder or limited-time offer,1
+788,0.05179849,Low Intent,Retarget with awareness ad or product education,0
+1131,0.0013796358,Low Intent,Retarget with awareness ad or product education,0
+10117,0.411014,Medium Intent,Send educational content about Nattoguard benefits,0
+8209,0.09248757,Low Intent,Retarget with awareness ad or product education,0
+8671,0.20846093,Low Intent,Retarget with awareness ad or product education,0
+3960,0.88134015,High Intent,Send checkout reminder or limited-time offer,0
+7404,0.122685894,Low Intent,Retarget with awareness ad or product education,0
+6081,0.5604278,Medium Intent,Send educational content about Nattoguard benefits,1
+8758,0.075065635,Low Intent,Retarget with awareness ad or product education,0
+5009,0.006282429,Low Intent,Retarget with awareness ad or product education,0
+9454,0.927345,High Intent,Send checkout reminder or limited-time offer,1
+11680,0.9202992,High Intent,Send checkout reminder or limited-time offer,1
+12202,0.049032986,Low Intent,Retarget with awareness ad or product education,0
+7038,0.298053,Low Intent,Retarget with awareness ad or product education,0
+1497,0.010172893,Low Intent,Retarget with awareness ad or product education,0
+8370,0.329464,Low Intent,Retarget with awareness ad or product education,0
+4054,0.34269384,Low Intent,Retarget with awareness ad or product education,0
+10220,0.52672637,Medium Intent,Send educational content about Nattoguard benefits,0
+11519,0.18212299,Low Intent,Retarget with awareness ad or product education,0
+12027,0.17911032,Low Intent,Retarget with awareness ad or product education,0
+2398,0.008595898,Low Intent,Retarget with awareness ad or product education,0
+12108,0.84671193,High Intent,Send checkout reminder or limited-time offer,0
+1458,0.0028171088,Low Intent,Retarget with awareness ad or product education,0
+7179,0.047887288,Low Intent,Retarget with awareness ad or product education,0
+11551,0.13477781,Low Intent,Retarget with awareness ad or product education,0
+10067,0.005013247,Low Intent,Retarget with awareness ad or product education,0
+3425,0.018014433,Low Intent,Retarget with awareness ad or product education,0
+2372,0.0005552428,Low Intent,Retarget with awareness ad or product education,0
+6138,0.26681122,Low Intent,Retarget with awareness ad or product education,0
+5177,0.0015040339,Low Intent,Retarget with awareness ad or product education,0
+8408,0.90269566,High Intent,Send checkout reminder or limited-time offer,1
+7501,0.14356849,Low Intent,Retarget with awareness ad or product education,0
+8168,0.08605396,Low Intent,Retarget with awareness ad or product education,0
+11386,0.77807134,High Intent,Send checkout reminder or limited-time offer,0
+9258,0.16817069,Low Intent,Retarget with awareness ad or product education,0
+10278,0.06957413,Low Intent,Retarget with awareness ad or product education,0
+3367,0.016541762,Low Intent,Retarget with awareness ad or product education,0
+7170,0.9350583,High Intent,Send checkout reminder or limited-time offer,0
+4756,0.0038952816,Low Intent,Retarget with awareness ad or product education,0
+3010,0.011180334,Low Intent,Retarget with awareness ad or product education,0
+9944,0.5332078,Medium Intent,Send educational content about Nattoguard benefits,0
+7906,0.263209,Low Intent,Retarget with awareness ad or product education,0
+8069,0.37610498,Low Intent,Retarget with awareness ad or product education,0
+9726,0.09010974,Low Intent,Retarget with awareness ad or product education,0
+3840,0.0014201609,Low Intent,Retarget with awareness ad or product education,0
+10600,0.3928643,Low Intent,Retarget with awareness ad or product education,0
+7581,0.46051866,Medium Intent,Send educational content about Nattoguard benefits,1
+11437,0.9024979,High Intent,Send checkout reminder or limited-time offer,1
+2111,0.007656703,Low Intent,Retarget with awareness ad or product education,0
+1171,0.93828505,High Intent,Send checkout reminder or limited-time offer,1
+12061,0.087106936,Low Intent,Retarget with awareness ad or product education,0
+7037,0.17500323,Low Intent,Retarget with awareness ad or product education,0
+9603,0.113064416,Low Intent,Retarget with awareness ad or product education,0
+7140,0.89323866,High Intent,Send checkout reminder or limited-time offer,0
+9602,0.52930015,Medium Intent,Send educational content about Nattoguard benefits,0
+1764,0.008837756,Low Intent,Retarget with awareness ad or product education,0
+3794,0.00027272268,Low Intent,Retarget with awareness ad or product education,0
+9771,0.4269016,Medium Intent,Send educational content about Nattoguard benefits,0
+11634,0.049628288,Low Intent,Retarget with awareness ad or product education,0
+9835,0.9113652,High Intent,Send checkout reminder or limited-time offer,0
+4541,0.006388769,Low Intent,Retarget with awareness ad or product education,0
+1155,0.01999274,Low Intent,Retarget with awareness ad or product education,0
+5051,0.0009459002,Low Intent,Retarget with awareness ad or product education,0
+1518,0.022709379,Low Intent,Retarget with awareness ad or product education,0
+2638,0.006022685,Low Intent,Retarget with awareness ad or product education,0
+1194,0.013665091,Low Intent,Retarget with awareness ad or product education,0
+1995,0.0132760545,Low Intent,Retarget with awareness ad or product education,0
+5481,0.11873472,Low Intent,Retarget with awareness ad or product education,0
+8287,0.9235275,High Intent,Send checkout reminder or limited-time offer,0
+10053,0.16921978,Low Intent,Retarget with awareness ad or product education,0
+4919,0.0051977965,Low Intent,Retarget with awareness ad or product education,0
+6964,0.22045799,Low Intent,Retarget with awareness ad or product education,0
+3097,0.003517126,Low Intent,Retarget with awareness ad or product education,0
+4139,0.009549549,Low Intent,Retarget with awareness ad or product education,0
+6368,0.17141412,Low Intent,Retarget with awareness ad or product education,0
+1149,0.0010698197,Low Intent,Retarget with awareness ad or product education,0
+1207,0.8267538,High Intent,Send checkout reminder or limited-time offer,1
+10156,0.30131194,Low Intent,Retarget with awareness ad or product education,0
+1381,0.007243979,Low Intent,Retarget with awareness ad or product education,0
+4040,0.014043443,Low Intent,Retarget with awareness ad or product education,0
+2076,0.0067123207,Low Intent,Retarget with awareness ad or product education,0
+1678,0.006950888,Low Intent,Retarget with awareness ad or product education,0
+9988,0.0154977385,Low Intent,Retarget with awareness ad or product education,0
+1069,0.016649652,Low Intent,Retarget with awareness ad or product education,0
+8026,0.051455595,Low Intent,Retarget with awareness ad or product education,0
+6059,0.5542178,Medium Intent,Send educational content about Nattoguard benefits,0
+9086,0.07931464,Low Intent,Retarget with awareness ad or product education,0
+7593,0.1579598,Low Intent,Retarget with awareness ad or product education,0
+3410,0.0026440043,Low Intent,Retarget with awareness ad or product education,0
+5400,0.8235397,High Intent,Send checkout reminder or limited-time offer,0
+2692,0.68265164,Medium Intent,Send educational content about Nattoguard benefits,0
+9621,0.012208593,Low Intent,Retarget with awareness ad or product education,0
+11221,0.19549116,Low Intent,Retarget with awareness ad or product education,0
+3833,0.004844451,Low Intent,Retarget with awareness ad or product education,0
+5958,0.9737646,High Intent,Send checkout reminder or limited-time offer,1
+2392,0.0215172,Low Intent,Retarget with awareness ad or product education,0
+4935,0.34129316,Low Intent,Retarget with awareness ad or product education,0
+11862,0.4357061,Medium Intent,Send educational content about Nattoguard benefits,0
+6307,0.008404895,Low Intent,Retarget with awareness ad or product education,0
+3196,0.006436645,Low Intent,Retarget with awareness ad or product education,0
+4419,0.95028406,High Intent,Send checkout reminder or limited-time offer,1
+11966,0.9929705,High Intent,Send checkout reminder or limited-time offer,0
+834,0.0070527773,Low Intent,Retarget with awareness ad or product education,0
+8779,0.013653386,Low Intent,Retarget with awareness ad or product education,0
+3901,0.007692593,Low Intent,Retarget with awareness ad or product education,0
+1126,0.013008088,Low Intent,Retarget with awareness ad or product education,0
+495,0.0045711016,Low Intent,Retarget with awareness ad or product education,0
+5841,0.08711129,Low Intent,Retarget with awareness ad or product education,1
+8913,0.028442904,Low Intent,Retarget with awareness ad or product education,0
+2966,0.011023558,Low Intent,Retarget with awareness ad or product education,0
+776,0.006222652,Low Intent,Retarget with awareness ad or product education,0
+3252,0.0730332,Low Intent,Retarget with awareness ad or product education,0
+5272,0.00385843,Low Intent,Retarget with awareness ad or product education,0
+7533,0.0738656,Low Intent,Retarget with awareness ad or product education,0
+9290,0.19607191,Low Intent,Retarget with awareness ad or product education,0
+5969,0.9762732,High Intent,Send checkout reminder or limited-time offer,0
+3743,0.007875879,Low Intent,Retarget with awareness ad or product education,0
+5935,0.16880402,Low Intent,Retarget with awareness ad or product education,0
+129,0.006498283,Low Intent,Retarget with awareness ad or product education,0
+3972,0.0019063969,Low Intent,Retarget with awareness ad or product education,0
+9162,0.16948153,Low Intent,Retarget with awareness ad or product education,0
+7455,0.7123706,Medium Intent,Send educational content about Nattoguard benefits,0
+5093,0.013683227,Low Intent,Retarget with awareness ad or product education,0
+11499,0.4948583,Medium Intent,Send educational content about Nattoguard benefits,0
+8001,0.21185438,Low Intent,Retarget with awareness ad or product education,0
+10505,0.2535217,Low Intent,Retarget with awareness ad or product education,0
+5297,0.09084471,Low Intent,Retarget with awareness ad or product education,0
+7560,0.3588219,Low Intent,Retarget with awareness ad or product education,0
+4657,0.009794197,Low Intent,Retarget with awareness ad or product education,0
+11471,0.9285836,High Intent,Send checkout reminder or limited-time offer,1
+5576,0.08556517,Low Intent,Retarget with awareness ad or product education,0
+11004,0.24496329,Low Intent,Retarget with awareness ad or product education,1
+8118,0.24151532,Low Intent,Retarget with awareness ad or product education,0
+10361,0.536956,Medium Intent,Send educational content about Nattoguard benefits,0
+148,0.034363113,Low Intent,Retarget with awareness ad or product education,0
+8170,0.28311926,Low Intent,Retarget with awareness ad or product education,0
+4334,0.8093894,High Intent,Send checkout reminder or limited-time offer,0
+10829,0.8634958,High Intent,Send checkout reminder or limited-time offer,1
+75,0.04172081,Low Intent,Retarget with awareness ad or product education,0
+4345,0.004398868,Low Intent,Retarget with awareness ad or product education,0
+9593,0.017158687,Low Intent,Retarget with awareness ad or product education,0
+6895,0.32752466,Low Intent,Retarget with awareness ad or product education,1
+11925,0.48094887,Medium Intent,Send educational content about Nattoguard benefits,0
+6319,0.19465427,Low Intent,Retarget with awareness ad or product education,0
+7700,0.9062279,High Intent,Send checkout reminder or limited-time offer,1
+1057,0.014232952,Low Intent,Retarget with awareness ad or product education,0
+1267,0.02488293,Low Intent,Retarget with awareness ad or product education,0
+7434,0.1190893,Low Intent,Retarget with awareness ad or product education,0
+3167,0.9512978,High Intent,Send checkout reminder or limited-time offer,1
+8649,0.50659513,Medium Intent,Send educational content about Nattoguard benefits,1
+6158,0.9128841,High Intent,Send checkout reminder or limited-time offer,1
+5668,0.08612807,Low Intent,Retarget with awareness ad or product education,0
+1222,0.023111952,Low Intent,Retarget with awareness ad or product education,0
+6840,0.15451775,Low Intent,Retarget with awareness ad or product education,0
+4184,0.008249761,Low Intent,Retarget with awareness ad or product education,0
+11754,0.097662166,Low Intent,Retarget with awareness ad or product education,0
+5572,0.0059935194,Low Intent,Retarget with awareness ad or product education,0
+11792,0.85579276,High Intent,Send checkout reminder or limited-time offer,1
+8473,0.13762842,Low Intent,Retarget with awareness ad or product education,0
+8258,0.467508,Medium Intent,Send educational content about Nattoguard benefits,0
+9766,0.29834896,Low Intent,Retarget with awareness ad or product education,0
+11138,0.11735299,Low Intent,Retarget with awareness ad or product education,0
+2068,0.95146024,High Intent,Send checkout reminder or limited-time offer,0
+3180,0.0027983538,Low Intent,Retarget with awareness ad or product education,0
+4623,0.96563685,High Intent,Send checkout reminder or limited-time offer,0
+11360,0.7363893,Medium Intent,Send educational content about Nattoguard benefits,0
+3154,0.93089247,High Intent,Send checkout reminder or limited-time offer,0
+5980,0.14928609,Low Intent,Retarget with awareness ad or product education,0
+10349,0.08853244,Low Intent,Retarget with awareness ad or product education,0
+1467,0.0023619214,Low Intent,Retarget with awareness ad or product education,0
+3592,0.00041902548,Low Intent,Retarget with awareness ad or product education,0
+4816,0.64295816,Medium Intent,Send educational content about Nattoguard benefits,1
+7399,0.11335784,Low Intent,Retarget with awareness ad or product education,0
+7275,0.14698042,Low Intent,Retarget with awareness ad or product education,0
+9058,0.88141644,High Intent,Send checkout reminder or limited-time offer,0
+9711,0.090980574,Low Intent,Retarget with awareness ad or product education,0
+4774,0.0072951564,Low Intent,Retarget with awareness ad or product education,0
+91,0.00895647,Low Intent,Retarget with awareness ad or product education,0
+6302,0.7862973,High Intent,Send checkout reminder or limited-time offer,1
+10168,0.9673458,High Intent,Send checkout reminder or limited-time offer,1
+3117,0.0008741977,Low Intent,Retarget with awareness ad or product education,0
+10665,0.27173004,Low Intent,Retarget with awareness ad or product education,0
+4911,0.814018,High Intent,Send checkout reminder or limited-time offer,0
+6113,0.13096714,Low Intent,Retarget with awareness ad or product education,0
+12008,0.51387984,Medium Intent,Send educational content about Nattoguard benefits,1
+7144,0.048580356,Low Intent,Retarget with awareness ad or product education,0
+11033,0.008525717,Low Intent,Retarget with awareness ad or product education,0
+10219,0.20849316,Low Intent,Retarget with awareness ad or product education,0
+4194,0.015582389,Low Intent,Retarget with awareness ad or product education,0
+5732,0.20887059,Low Intent,Retarget with awareness ad or product education,0
+5111,0.010015202,Low Intent,Retarget with awareness ad or product education,0
+11425,0.840373,High Intent,Send checkout reminder or limited-time offer,1
+7684,0.9717681,High Intent,Send checkout reminder or limited-time offer,0
+11981,0.82785153,High Intent,Send checkout reminder or limited-time offer,1
+5371,0.18851846,Low Intent,Retarget with awareness ad or product education,0
+6804,0.28999877,Low Intent,Retarget with awareness ad or product education,0
+10900,0.39283827,Low Intent,Retarget with awareness ad or product education,1
+5520,0.83891743,High Intent,Send checkout reminder or limited-time offer,0
+4684,0.010649094,Low Intent,Retarget with awareness ad or product education,0
+2015,0.02500439,Low Intent,Retarget with awareness ad or product education,0
+5495,0.86893713,High Intent,Send checkout reminder or limited-time offer,1
+140,0.004826988,Low Intent,Retarget with awareness ad or product education,0
+10917,0.89642096,High Intent,Send checkout reminder or limited-time offer,0
+6720,0.11760503,Low Intent,Retarget with awareness ad or product education,0
+1521,0.021285126,Low Intent,Retarget with awareness ad or product education,0
+10841,0.15812345,Low Intent,Retarget with awareness ad or product education,0
+8798,0.28346464,Low Intent,Retarget with awareness ad or product education,0
+1628,0.022378339,Low Intent,Retarget with awareness ad or product education,0
+6335,0.2235367,Low Intent,Retarget with awareness ad or product education,0
+2693,0.2970078,Low Intent,Retarget with awareness ad or product education,1
+5390,0.42203075,Medium Intent,Send educational content about Nattoguard benefits,1
+7818,0.17166989,Low Intent,Retarget with awareness ad or product education,0
+9576,0.8096625,High Intent,Send checkout reminder or limited-time offer,1
+7779,0.086616084,Low Intent,Retarget with awareness ad or product education,0
+4892,0.94854313,High Intent,Send checkout reminder or limited-time offer,0
+7255,0.15170363,Low Intent,Retarget with awareness ad or product education,0
+4679,0.85728776,High Intent,Send checkout reminder or limited-time offer,1
+386,0.009182447,Low Intent,Retarget with awareness ad or product education,0
+1481,0.036447134,Low Intent,Retarget with awareness ad or product education,0
+4860,0.004111165,Low Intent,Retarget with awareness ad or product education,0
+1426,0.012656461,Low Intent,Retarget with awareness ad or product education,0
+6705,0.98907614,High Intent,Send checkout reminder or limited-time offer,1
+11485,0.6404541,Medium Intent,Send educational content about Nattoguard benefits,0
+10376,0.62652963,Medium Intent,Send educational content about Nattoguard benefits,1
+4644,0.004359109,Low Intent,Retarget with awareness ad or product education,0
+1397,0.0071940473,Low Intent,Retarget with awareness ad or product education,0
+8562,0.008298623,Low Intent,Retarget with awareness ad or product education,0
+994,0.010220133,Low Intent,Retarget with awareness ad or product education,0
+4853,0.0074048955,Low Intent,Retarget with awareness ad or product education,0
+6915,0.12193992,Low Intent,Retarget with awareness ad or product education,0
+8014,0.1626827,Low Intent,Retarget with awareness ad or product education,0
+1094,0.95720863,High Intent,Send checkout reminder or limited-time offer,1
+3304,0.9236398,High Intent,Send checkout reminder or limited-time offer,1
+3048,0.0011230267,Low Intent,Retarget with awareness ad or product education,0
+2768,0.00754543,Low Intent,Retarget with awareness ad or product education,0
+6020,0.7951952,High Intent,Send checkout reminder or limited-time offer,0
+8880,0.8891287,High Intent,Send checkout reminder or limited-time offer,0
+5036,0.0061850157,Low Intent,Retarget with awareness ad or product education,0
+1281,0.0063691693,Low Intent,Retarget with awareness ad or product education,0
+9966,0.1534345,Low Intent,Retarget with awareness ad or product education,0
+1781,0.024873912,Low Intent,Retarget with awareness ad or product education,0
+5669,0.15182959,Low Intent,Retarget with awareness ad or product education,0
+1850,0.047941312,Low Intent,Retarget with awareness ad or product education,0
+7719,0.35255393,Low Intent,Retarget with awareness ad or product education,0
+5467,0.095672004,Low Intent,Retarget with awareness ad or product education,0
+1830,0.9337739,High Intent,Send checkout reminder or limited-time offer,0
+6392,0.88521105,High Intent,Send checkout reminder or limited-time offer,1
+1948,0.01890271,Low Intent,Retarget with awareness ad or product education,0
+5627,0.6484607,Medium Intent,Send educational content about Nattoguard benefits,0
+4129,0.007615911,Low Intent,Retarget with awareness ad or product education,0
+11440,0.9905952,High Intent,Send checkout reminder or limited-time offer,1
+10342,0.021717966,Low Intent,Retarget with awareness ad or product education,0
+4947,0.015742658,Low Intent,Retarget with awareness ad or product education,0
+3040,0.0083944965,Low Intent,Retarget with awareness ad or product education,0
+8525,0.18031108,Low Intent,Retarget with awareness ad or product education,0
+7129,0.11295166,Low Intent,Retarget with awareness ad or product education,0
+7809,0.9140942,High Intent,Send checkout reminder or limited-time offer,0
+5372,0.9625244,High Intent,Send checkout reminder or limited-time offer,1
+6362,0.60703737,Medium Intent,Send educational content about Nattoguard benefits,0
+1010,0.9003533,High Intent,Send checkout reminder or limited-time offer,0
+8846,0.47418812,Medium Intent,Send educational content about Nattoguard benefits,1
+6859,0.78646636,High Intent,Send checkout reminder or limited-time offer,1
+7679,0.2927915,Low Intent,Retarget with awareness ad or product education,0
+4155,0.012752103,Low Intent,Retarget with awareness ad or product education,0
+11604,0.57486993,Medium Intent,Send educational content about Nattoguard benefits,0
+5404,0.03963392,Low Intent,Retarget with awareness ad or product education,0
+3751,0.76417834,High Intent,Send checkout reminder or limited-time offer,0
+4289,0.018340195,Low Intent,Retarget with awareness ad or product education,0
+3071,0.0031225516,Low Intent,Retarget with awareness ad or product education,0
+8207,0.18795697,Low Intent,Retarget with awareness ad or product education,0
+6520,0.7226795,Medium Intent,Send educational content about Nattoguard benefits,0
+9350,0.09069077,Low Intent,Retarget with awareness ad or product education,0
+10214,0.16024491,Low Intent,Retarget with awareness ad or product education,0
+2830,0.006249368,Low Intent,Retarget with awareness ad or product education,0
+10238,0.91303253,High Intent,Send checkout reminder or limited-time offer,1
+545,0.013401579,Low Intent,Retarget with awareness ad or product education,0
+11892,0.96453345,High Intent,Send checkout reminder or limited-time offer,1
+1627,0.88781023,High Intent,Send checkout reminder or limited-time offer,1
+1035,0.01973076,Low Intent,Retarget with awareness ad or product education,0
+1063,0.018745387,Low Intent,Retarget with awareness ad or product education,0
+7169,0.4462628,Medium Intent,Send educational content about Nattoguard benefits,0
+9136,0.23400152,Low Intent,Retarget with awareness ad or product education,1
+1600,0.019246353,Low Intent,Retarget with awareness ad or product education,0
+2926,0.000733712,Low Intent,Retarget with awareness ad or product education,0
+11305,0.5350381,Medium Intent,Send educational content about Nattoguard benefits,0
+622,0.011995817,Low Intent,Retarget with awareness ad or product education,0
+9033,0.89465195,High Intent,Send checkout reminder or limited-time offer,1
+6102,0.08825028,Low Intent,Retarget with awareness ad or product education,0
+11738,0.9438113,High Intent,Send checkout reminder or limited-time offer,1
+12183,0.35598198,Low Intent,Retarget with awareness ad or product education,0
+4782,0.014876509,Low Intent,Retarget with awareness ad or product education,0
+1067,0.023361554,Low Intent,Retarget with awareness ad or product education,0
+8027,0.072810166,Low Intent,Retarget with awareness ad or product education,0
+1219,0.014136422,Low Intent,Retarget with awareness ad or product education,0
+7509,0.13767438,Low Intent,Retarget with awareness ad or product education,0
+9373,0.18471855,Low Intent,Retarget with awareness ad or product education,0
+2685,0.014513473,Low Intent,Retarget with awareness ad or product education,0
+11176,0.0058224513,Low Intent,Retarget with awareness ad or product education,0
+3981,0.007709635,Low Intent,Retarget with awareness ad or product education,0
+12146,0.6772824,Medium Intent,Send educational content about Nattoguard benefits,0
+2522,0.0007363233,Low Intent,Retarget with awareness ad or product education,0
+2278,0.0048050326,Low Intent,Retarget with awareness ad or product education,0
+1878,0.009979664,Low Intent,Retarget with awareness ad or product education,0
+5280,0.008388795,Low Intent,Retarget with awareness ad or product education,0
+7326,0.12564744,Low Intent,Retarget with awareness ad or product education,0
+1763,0.023669632,Low Intent,Retarget with awareness ad or product education,0
+9799,0.015569163,Low Intent,Retarget with awareness ad or product education,0
+6445,0.2368848,Low Intent,Retarget with awareness ad or product education,0
+9164,0.9504224,High Intent,Send checkout reminder or limited-time offer,1
+556,0.022161469,Low Intent,Retarget with awareness ad or product education,0
+11755,0.12124844,Low Intent,Retarget with awareness ad or product education,0
+8732,0.20345382,Low Intent,Retarget with awareness ad or product education,0
+765,0.009273979,Low Intent,Retarget with awareness ad or product education,0
+7824,0.06671981,Low Intent,Retarget with awareness ad or product education,0
+5819,0.13801779,Low Intent,Retarget with awareness ad or product education,0
+11693,0.36689126,Low Intent,Retarget with awareness ad or product education,0
+5464,0.98071027,High Intent,Send checkout reminder or limited-time offer,1
+10283,0.21456264,Low Intent,Retarget with awareness ad or product education,0
+5432,0.67539686,Medium Intent,Send educational content about Nattoguard benefits,0
+8251,0.10761617,Low Intent,Retarget with awareness ad or product education,0
+3146,0.00202622,Low Intent,Retarget with awareness ad or product education,0
+10770,0.08991826,Low Intent,Retarget with awareness ad or product education,0
+7615,0.18040943,Low Intent,Retarget with awareness ad or product education,0
+10363,0.13735984,Low Intent,Retarget with awareness ad or product education,0
+5682,0.17607732,Low Intent,Retarget with awareness ad or product education,0
+9193,0.18906821,Low Intent,Retarget with awareness ad or product education,0
+7020,0.8765674,High Intent,Send checkout reminder or limited-time offer,1
+4448,0.0045128036,Low Intent,Retarget with awareness ad or product education,0
+8593,0.47264674,Medium Intent,Send educational content about Nattoguard benefits,0
+1742,0.008526524,Low Intent,Retarget with awareness ad or product education,0
+2444,0.0046554306,Low Intent,Retarget with awareness ad or product education,0
+5308,0.0043873284,Low Intent,Retarget with awareness ad or product education,0
+2428,0.0010698758,Low Intent,Retarget with awareness ad or product education,0
+11317,0.93451273,High Intent,Send checkout reminder or limited-time offer,0
+1842,0.0013469945,Low Intent,Retarget with awareness ad or product education,0
+10333,0.19742857,Low Intent,Retarget with awareness ad or product education,0
+9320,0.027626017,Low Intent,Retarget with awareness ad or product education,0
+11470,0.15036996,Low Intent,Retarget with awareness ad or product education,0
+777,0.0071695973,Low Intent,Retarget with awareness ad or product education,0
+2484,0.011708063,Low Intent,Retarget with awareness ad or product education,0
+5477,0.068444826,Low Intent,Retarget with awareness ad or product education,0
+8368,0.09851166,Low Intent,Retarget with awareness ad or product education,0
+5210,0.008687431,Low Intent,Retarget with awareness ad or product education,0
+3038,0.6879646,Medium Intent,Send educational content about Nattoguard benefits,0
+5674,0.8470172,High Intent,Send checkout reminder or limited-time offer,0
+8369,0.17758004,Low Intent,Retarget with awareness ad or product education,0
+10953,0.045003284,Low Intent,Retarget with awareness ad or product education,0
+2183,0.004079151,Low Intent,Retarget with awareness ad or product education,0
+3346,0.8900044,High Intent,Send checkout reminder or limited-time offer,0
+8236,0.18487763,Low Intent,Retarget with awareness ad or product education,0
+9325,0.42404845,Medium Intent,Send educational content about Nattoguard benefits,0
+3454,0.6706362,Medium Intent,Send educational content about Nattoguard benefits,0
+2203,0.008036654,Low Intent,Retarget with awareness ad or product education,0
+3554,0.0097848885,Low Intent,Retarget with awareness ad or product education,0
+11687,0.2296807,Low Intent,Retarget with awareness ad or product education,0
+4038,0.010008274,Low Intent,Retarget with awareness ad or product education,0
+10071,0.80616033,High Intent,Send checkout reminder or limited-time offer,1
+9333,0.22605088,Low Intent,Retarget with awareness ad or product education,0
+9248,0.40213183,Medium Intent,Send educational content about Nattoguard benefits,1
+10681,0.018477095,Low Intent,Retarget with awareness ad or product education,0
+10935,0.2971959,Low Intent,Retarget with awareness ad or product education,0
+3193,0.0049700374,Low Intent,Retarget with awareness ad or product education,0
+6330,0.10306343,Low Intent,Retarget with awareness ad or product education,0
+8078,0.01772797,Low Intent,Retarget with awareness ad or product education,0
+2806,0.88027734,High Intent,Send checkout reminder or limited-time offer,0
+5525,0.1596172,Low Intent,Retarget with awareness ad or product education,0
+10466,0.4007811,Medium Intent,Send educational content about Nattoguard benefits,0
+4941,0.00043560608,Low Intent,Retarget with awareness ad or product education,0
+9530,0.4529136,Medium Intent,Send educational content about Nattoguard benefits,0
+8707,0.010982228,Low Intent,Retarget with awareness ad or product education,0
+1693,0.009164733,Low Intent,Retarget with awareness ad or product education,0
+1151,0.009319134,Low Intent,Retarget with awareness ad or product education,0
+3926,0.0024296886,Low Intent,Retarget with awareness ad or product education,0
+8171,0.055474047,Low Intent,Retarget with awareness ad or product education,0
+2439,0.008025201,Low Intent,Retarget with awareness ad or product education,0
+5006,0.0103875445,Low Intent,Retarget with awareness ad or product education,0
+570,0.027176812,Low Intent,Retarget with awareness ad or product education,0
+10286,0.8995911,High Intent,Send checkout reminder or limited-time offer,1
+6984,0.118821315,Low Intent,Retarget with awareness ad or product education,0
+2886,0.72225714,Medium Intent,Send educational content about Nattoguard benefits,0
+6494,0.070687115,Low Intent,Retarget with awareness ad or product education,0
+6938,0.67355,Medium Intent,Send educational content about Nattoguard benefits,0
+11628,0.055867847,Low Intent,Retarget with awareness ad or product education,0
+2969,0.0050836243,Low Intent,Retarget with awareness ad or product education,0
+6359,0.21789774,Low Intent,Retarget with awareness ad or product education,0
+10364,0.23943956,Low Intent,Retarget with awareness ad or product education,0
+7973,0.5402819,Medium Intent,Send educational content about Nattoguard benefits,0
+11177,0.10697173,Low Intent,Retarget with awareness ad or product education,0
+11641,0.09817865,Low Intent,Retarget with awareness ad or product education,0
+9659,0.08408809,Low Intent,Retarget with awareness ad or product education,0
+10487,0.05089878,Low Intent,Retarget with awareness ad or product education,0
+3075,0.002874486,Low Intent,Retarget with awareness ad or product education,0
+6507,0.13331497,Low Intent,Retarget with awareness ad or product education,0
+12099,0.432964,Medium Intent,Send educational content about Nattoguard benefits,0
+3034,0.007921418,Low Intent,Retarget with awareness ad or product education,0
+2892,0.010026246,Low Intent,Retarget with awareness ad or product education,0
+2217,0.000674348,Low Intent,Retarget with awareness ad or product education,0
+128,0.067235865,Low Intent,Retarget with awareness ad or product education,0
+1466,0.00079372874,Low Intent,Retarget with awareness ad or product education,0
+4945,0.010668277,Low Intent,Retarget with awareness ad or product education,0
+5364,0.6891721,Medium Intent,Send educational content about Nattoguard benefits,0
+2745,0.0023416649,Low Intent,Retarget with awareness ad or product education,0
+10941,0.19495977,Low Intent,Retarget with awareness ad or product education,0
+1712,0.010159214,Low Intent,Retarget with awareness ad or product education,0
+664,0.9591362,High Intent,Send checkout reminder or limited-time offer,0
+8148,0.013761146,Low Intent,Retarget with awareness ad or product education,0
+11183,0.27069527,Low Intent,Retarget with awareness ad or product education,0
+2977,0.008173935,Low Intent,Retarget with awareness ad or product education,0
+4416,0.5396051,Medium Intent,Send educational content about Nattoguard benefits,1
+6172,0.97984296,High Intent,Send checkout reminder or limited-time offer,1
+845,0.9709807,High Intent,Send checkout reminder or limited-time offer,1
+3324,0.9793419,High Intent,Send checkout reminder or limited-time offer,1
+6952,0.8737417,High Intent,Send checkout reminder or limited-time offer,1
+3967,0.0038943733,Low Intent,Retarget with awareness ad or product education,0
+650,0.015464679,Low Intent,Retarget with awareness ad or product education,0
+2648,0.0037488383,Low Intent,Retarget with awareness ad or product education,0
+9818,0.1487397,Low Intent,Retarget with awareness ad or product education,0
+1429,0.017777426,Low Intent,Retarget with awareness ad or product education,0
+4862,0.6570882,Medium Intent,Send educational content about Nattoguard benefits,0
+6303,0.3919339,Low Intent,Retarget with awareness ad or product education,0
+676,0.008839778,Low Intent,Retarget with awareness ad or product education,0
+10869,0.13005787,Low Intent,Retarget with awareness ad or product education,0
+4207,0.9684646,High Intent,Send checkout reminder or limited-time offer,1
+10908,0.06381367,Low Intent,Retarget with awareness ad or product education,0
+3995,0.17349762,Low Intent,Retarget with awareness ad or product education,0
+3525,0.98409224,High Intent,Send checkout reminder or limited-time offer,1
+2415,0.98733276,High Intent,Send checkout reminder or limited-time offer,1
+8984,0.68430585,Medium Intent,Send educational content about Nattoguard benefits,0
+9305,0.06855546,Low Intent,Retarget with awareness ad or product education,0
+12018,0.03565191,Low Intent,Retarget with awareness ad or product education,0
+5999,0.02818034,Low Intent,Retarget with awareness ad or product education,0
+9920,0.1099316,Low Intent,Retarget with awareness ad or product education,0
+7096,0.16696642,Low Intent,Retarget with awareness ad or product education,0
+7761,0.9724318,High Intent,Send checkout reminder or limited-time offer,1
+5727,0.89929193,High Intent,Send checkout reminder or limited-time offer,0
+11215,0.11626053,Low Intent,Retarget with awareness ad or product education,0
+9442,0.22855364,Low Intent,Retarget with awareness ad or product education,0
+8575,0.6204369,Medium Intent,Send educational content about Nattoguard benefits,0
+2443,0.003975837,Low Intent,Retarget with awareness ad or product education,0
+5954,0.31486073,Low Intent,Retarget with awareness ad or product education,0
+3679,0.0021396065,Low Intent,Retarget with awareness ad or product education,0
+1851,0.022552408,Low Intent,Retarget with awareness ad or product education,0
+8919,0.086384624,Low Intent,Retarget with awareness ad or product education,0
+11907,0.086472504,Low Intent,Retarget with awareness ad or product education,0
+567,0.006680692,Low Intent,Retarget with awareness ad or product education,0
+3159,0.00063113036,Low Intent,Retarget with awareness ad or product education,0
+4912,0.8509209,High Intent,Send checkout reminder or limited-time offer,1
+1989,0.029466681,Low Intent,Retarget with awareness ad or product education,0
+10703,0.538237,Medium Intent,Send educational content about Nattoguard benefits,0
+9254,0.089880794,Low Intent,Retarget with awareness ad or product education,0
+2442,0.006628708,Low Intent,Retarget with awareness ad or product education,0
+6927,0.40696585,Medium Intent,Send educational content about Nattoguard benefits,0
+2874,0.9915079,High Intent,Send checkout reminder or limited-time offer,1
+12174,0.37714624,Low Intent,Retarget with awareness ad or product education,0
+10314,0.44212434,Medium Intent,Send educational content about Nattoguard benefits,0
