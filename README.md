@@ -155,9 +155,9 @@ Nattoguard-AI-Revenue-System/
 │   ├── chatbot_inputs/
 │   ├── model_results/
 │   └── slide_assets/
-├── requirements.txt
+├── .gitignore
 ├── README.md
-└── .gitignore
+└── requirements.txt
 ```
 
 ## Data Note
